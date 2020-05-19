@@ -1,0 +1,478 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2020-05-19T12:19:23.720Z,38.8240013,-122.8433304,1.49,0.57,md,12,93,0.006544,0.02,nc,nc73390146,2020-05-19T12:21:19.853Z,"9km NW of The Geysers, CA",earthquake,0.28,0.68,,1,automatic,nc,nc
+2020-05-19T12:13:41.649Z,63.0376,-151.3586,0,1.3,ml,,,,0.72,ak,ak0206fqgnx5,2020-05-19T12:16:45.206Z,"102km NW of Talkeetna, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2020-05-19T12:07:26.620Z,37.6399994,-119.4156647,4.66,1.54,md,8,206,0.2819,0.02,nc,nc73390136,2020-05-19T12:23:03.160Z,"18km SE of Yosemite Valley, CA",earthquake,0.78,8.07,0.24,3,automatic,nc,nc
+2020-05-19T12:03:29.940Z,34.0178333,-117.225,10.93,1.22,ml,32,60,0.09515,0.19,ci,ci39207023,2020-05-19T12:07:18.989Z,"5km SE of Loma Linda, CA",earthquake,0.22,0.56,0.218,26,automatic,ci,ci
+2020-05-19T12:01:21.530Z,36.1286659,-117.8203354,3.19,1.1,ml,12,163,0.03006,0.12,ci,ci39207015,2020-05-19T12:04:53.379Z,"15km NE of Coso Junction, CA",earthquake,0.38,0.75,0.311,4,automatic,ci,ci
+2020-05-19T11:57:20.510Z,38.1637,-117.8288,6.1,2.3,ml,15,48.56,0.103,0.2,nn,nn00728656,2020-05-19T12:09:18.681Z,"53km WNW of Tonopah, Nevada",earthquake,,1.1,,,automatic,nn,nn
+2020-05-19T11:56:08.040Z,38.1282,-117.8108,0.5,1.5,ml,10,109,0.107,0.09,nn,nn00728655,2020-05-19T12:09:11.383Z,"51km W of Tonopah, Nevada",earthquake,,8.7,,,automatic,nn,nn
+2020-05-19T11:51:45.990Z,38.1247,-117.8002,7.7,1.5,ml,10,138.62,0.128,0.1,nn,nn00728654,2020-05-19T11:57:32.316Z,"50km W of Tonopah, Nevada",earthquake,,1,,,automatic,nn,nn
+2020-05-19T11:42:23.210Z,38.177,-117.8045,6.9,2.2,ml,20,88.43,0.447,0.08,nn,nn00728651,2020-05-19T11:53:11.913Z,"51km WNW of Tonopah, Nevada",earthquake,,10.7,,,automatic,nn,nn
+2020-05-19T11:30:55.270Z,38.1302,-118.0237,5.2,1.9,ml,11,110.65,0.056,0.1,nn,nn00728649,2020-05-19T11:43:38.697Z,"68km SE of Hawthorne, Nevada",earthquake,,0.8,,,automatic,nn,nn
+2020-05-19T11:30:10.800Z,38.208,-117.7635,6.5,1.4,ml,14,98.54,0.167,0.13,nn,nn00728647,2020-05-19T11:43:32.268Z,"49km WNW of Tonopah, Nevada",earthquake,,1.3,,,automatic,nn,nn
+2020-05-19T11:24:09.337Z,62.2371,-148.5268,16.8,3,ml,,,,0.72,ak,ak0206fpxiol,2020-05-19T11:36:26.716Z,"51km NNE of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2020-05-19T11:23:31.470Z,38.1818,-117.7902,5.7,1.8,ml,19,48.76,0.146,0.15,nn,nn00728645,2020-05-19T11:31:12.314Z,"50km WNW of Tonopah, Nevada",earthquake,,1.3,,,automatic,nn,nn
+2020-05-19T11:21:09.869Z,60.0643,-141.2366,11.8,1.5,ml,,,,0.46,ak,ak0206fpwvlh,2020-05-19T11:32:04.612Z,"66km E of Cape Yakataga, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2020-05-19T11:18:07.210Z,38.1852,-117.7985,14.5,1.5,ml,15,116.79,0.139,0.23,nn,nn00728643,2020-05-19T11:23:51.825Z,"51km WNW of Tonopah, Nevada",earthquake,,3,,,automatic,nn,nn
+2020-05-19T11:15:39.760Z,38.7971649,-122.8079987,1.6,1.13,md,20,71,0.00963,0.07,nc,nc73390126,2020-05-19T11:31:04.048Z,"5km WNW of The Geysers, CA",earthquake,0.25,0.45,0.08,4,automatic,nc,nc
+2020-05-19T11:13:58.634Z,13.0065,143.5725,138.41,4.7,mb,,46,1.388,0.4,us,us70009kqc,2020-05-19T11:42:12.040Z,"122km WSW of Merizo Village, Guam",earthquake,12,7.9,0.093,35,reviewed,us,us
+2020-05-19T11:08:57.970Z,38.159,-117.8698,8.1,2,ml,19,60.88,0.068,0.2,nn,nn00728639,2020-05-19T11:19:32.282Z,"57km W of Tonopah, Nevada",earthquake,,1.7,,,automatic,nn,nn
+2020-05-19T11:06:57.790Z,17.9365,-66.632,7,3.24,md,22,189,0.1094,0.14,pr,pr2020140001,2020-05-19T12:19:54.747Z,"8km SSW of Ponce, Puerto Rico",earthquake,0.37,0.23,0.2,18,reviewed,pr,pr
+2020-05-19T11:03:44.810Z,38.2237,-117.9,11.4,1.8,ml,12,153.41,0.293,0.1,nn,nn00728637,2020-05-19T11:07:12.023Z,"61km WNW of Tonopah, Nevada",earthquake,,6.7,,,automatic,nn,nn
+2020-05-19T10:58:43.114Z,38.1776,-117.7921,8.4,4,ml,25,57.33,0.121,0.1299,nn,nn00728633,2020-05-19T12:02:07.392Z,"51km WNW of Tonopah, Nevada",earthquake,,1,0.18,7,reviewed,nn,nn
+2020-05-19T10:55:37.920Z,38.2242,-117.7872,5.2,2.2,ml,18,70.99,0.162,0.13,nn,nn00728631,2020-05-19T10:59:44.185Z,"51km WNW of Tonopah, Nevada",earthquake,,1.1,,,automatic,nn,nn
+2020-05-19T10:54:07.449Z,38.1093,-118.1041,0,1.4,ml,10,137.01,0.202,0.3118,nn,nn00728630,2020-05-19T10:59:29.722Z,"64km SE of Hawthorne, Nevada",earthquake,,13.1,0.13,5,reviewed,nn,nn
+2020-05-19T10:50:55.485Z,62.2826,-151.811,91.5,1.5,ml,,,,0.65,ak,ak0206fphrac,2020-05-19T10:57:14.612Z,"88km W of Talkeetna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2020-05-19T10:50:53.869Z,60.1275,-141.2933,0,1.7,ml,,,,0.84,ak,ak0206fphr3m,2020-05-19T10:55:03.200Z,"63km E of Cape Yakataga, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2020-05-19T10:49:38.960Z,38.1533,-118.0005,5.2,1.6,ml,17,109.99,0.049,0.1,nn,nn00728628,2020-05-19T10:55:30.839Z,"68km SE of Hawthorne, Nevada",earthquake,,0.9,,,automatic,nn,nn
+2020-05-19T10:46:32.280Z,38.1057,-118.0158,8.8,2.2,ml,20,86.13,0.74,0.33,nn,nn00728623,2020-05-19T10:49:51.965Z,"69km W of Tonopah, Nevada",earthquake,,1.5,,,automatic,nn,nn
+2020-05-19T10:46:16.608Z,38.154,-118.0282,0.8,2,ml,8,108.87,0.056,0.5125,nn,nn00728624,2020-05-19T10:51:37.560Z,"66km SE of Hawthorne, Nevada",earthquake,,4.2,0.42,6,reviewed,nn,nn
+2020-05-19T10:42:17.430Z,38.221,-117.7895,5,3.1,ml,30,57.68,0.176,0.1,nn,nn00728620,2020-05-19T10:47:03.561Z,"51km WNW of Tonopah, Nevada",earthquake,,0.9,,,automatic,nn,nn
+2020-05-19T10:38:39.035Z,36.53891754,-98.96983337,4.4692626,1.76,ml,17,64.15371704,0.05004957691,0.2706099699,ok,ok2020jutz,2020-05-19T10:41:50.177Z,"23km ENE of Mooreland, Oklahoma",earthquake,3.432555877,2.260981054,,12,automatic,ok,ok
+2020-05-19T10:37:03.490Z,36.7751667,-117.6481667,3.7,2.6,ml,5,339,0.5047,0.23,ci,ci39206991,2020-05-19T10:41:04.834Z,"43km ENE of Lone Pine, CA",earthquake,19.23,31.61,0.289,27,automatic,ci,ci
+2020-05-19T10:36:37.706Z,38.1591,-117.859,6.8,3.7,ml,25,47.14,0.082,0.18,nn,nn00728614,2020-05-19T11:28:15.040Z,"54km WNW of Tonopah, Nevada",earthquake,,1.1,0.29,9,reviewed,nn,nn
+2020-05-19T10:34:47.680Z,38.1305,-118.0725,0.7,1.2,ml,11,129.53,0.096,0.17,nn,nn00728612,2020-05-19T10:38:10.683Z,"65km SE of Hawthorne, Nevada",earthquake,,13.3,,,automatic,nn,nn
+2020-05-19T10:26:07.020Z,38.17,-117.8975,10.4,1.9,ml,22,88.63,0.014,0.1,nn,nn00728609,2020-05-19T10:36:31.992Z,"59km WNW of Tonopah, Nevada",earthquake,,0.8,,,automatic,nn,nn
+2020-05-19T10:26:00.555Z,62.4507,-151.8257,67.6,1.9,ml,,,,0.81,ak,ak0206fpchuf,2020-05-19T10:29:37.146Z,"89km W of Talkeetna, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2020-05-19T10:24:50.160Z,38.1965,-117.825,5.2,1.6,ml,9,153.43,0.325,0.07,nn,nn00728607,2020-05-19T10:28:10.586Z,"54km WNW of Tonopah, Nevada",earthquake,,10.4,,,automatic,nn,nn
+2020-05-19T10:23:26.340Z,38.1993,-117.7555,1.4,1.4,ml,9,118.48,0.202,0.22,nn,nn00728606,2020-05-19T10:26:50.936Z,"48km WNW of Tonopah, Nevada",earthquake,,18.7,,,automatic,nn,nn
+2020-05-19T10:19:32.200Z,38.1385,-118.0608,0.8,2.1,ml,22,63.79,0.201,0.1,nn,nn00728603,2020-05-19T10:25:52.378Z,"65km SE of Hawthorne, Nevada",earthquake,,9.7,,,automatic,nn,nn
+2020-05-19T10:19:26.790Z,40.3031654,-124.0238342,28.48,2.65,md,16,59,0.08732,0.11,nc,nc73390081,2020-05-19T10:43:04.540Z,"22km E of Petrolia, CA",earthquake,0.53,1.36,0.11,15,automatic,nc,nc
+2020-05-19T10:17:17.636Z,61.448,-150.0735,36,1.3,ml,,,,0.6,ak,ak0206fpalpv,2020-05-19T10:19:54.664Z,"10km SW of Big Lake, Alaska",earthquake,,6.9,,,automatic,ak,ak
+2020-05-19T10:16:08.030Z,38.8209991,-122.7883301,10.65,0.57,md,8,120,0.009767,0.04,nc,nc73390076,2020-05-19T10:42:03.940Z,"6km NNW of The Geysers, CA",earthquake,1.43,6.38,,1,automatic,nc,nc
+2020-05-19T10:15:34.500Z,38.217,-117.7903,0,2.1,ml,27,69.22,0.147,0.44,nn,nn00728599,2020-05-19T10:20:52.269Z,"51km WNW of Tonopah, Nevada",earthquake,,18.4,,,automatic,nn,nn
+2020-05-19T10:10:21.500Z,38.1443,-117.9965,11.5,1.7,ml,22,55.5,0.061,0.09,nn,nn00728595,2020-05-19T10:16:51.886Z,"67km W of Tonopah, Nevada",earthquake,,0.8,,,automatic,nn,nn
+2020-05-19T10:08:41.910Z,38.2012,-117.7363,0.5,1.9,ml,16,89.42,0.224,0.19,nn,nn00728592,2020-05-19T10:11:52.003Z,"46km WNW of Tonopah, Nevada",earthquake,,12.3,,,automatic,nn,nn
+2020-05-19T10:02:39.730Z,33.9838333,-116.9881667,14.5,1.83,ml,66,38,0.0626,0.19,ci,ci39206975,2020-05-19T10:13:17.540Z,"6km E of Calimesa, CA",earthquake,0.2,0.39,0.184,26,automatic,ci,ci
+2020-05-19T10:01:31.010Z,35.9383316,-117.6760025,2.63,1.37,ml,20,55,0.02288,0.08,ci,ci39206967,2020-05-19T10:05:04.621Z,"21km E of Little Lake, CA",earthquake,0.35,0.46,0.278,5,automatic,ci,ci
+2020-05-19T10:00:58.310Z,33.9073333,-117.2105,6.48,0.82,ml,12,69,0.04366,0.2,ci,ci39206959,2020-05-19T10:04:40.616Z,"3km SE of Moreno Valley, CA",earthquake,0.61,1.42,0.28,23,automatic,ci,ci
+2020-05-19T10:00:19.347Z,-7.8294,107.9752,65.85,4.9,mb,,49,0.486,0.78,us,us70009kn8,2020-05-19T10:46:30.040Z,"10km SSW of Cipatujah Selatan, Indonesia",earthquake,6.8,5,0.069,67,reviewed,us,us
+2020-05-19T09:58:19.050Z,38.1932,-117.7638,3.1,1.9,ml,9,92.06,0.207,0.17,nn,nn00728589,2020-05-19T10:09:50.516Z,"48km WNW of Tonopah, Nevada",earthquake,,16.4,,,automatic,nn,nn
+2020-05-19T09:57:38.340Z,38.181,-117.8062,11.5,1.8,ml,15,67.15,0.136,0.09,nn,nn00728588,2020-05-19T10:00:52.050Z,"52km WNW of Tonopah, Nevada",earthquake,,2,,,automatic,nn,nn
+2020-05-19T09:55:50.890Z,34.02,-117.2303333,11.67,1.59,ml,61,40,0.0868,0.21,ci,ci39206951,2020-05-19T10:07:10.950Z,"4km SE of Loma Linda, CA",earthquake,0.22,0.54,0.184,26,automatic,ci,ci
+2020-05-19T09:55:23.090Z,38.177,-117.9123,4.6,2.4,ml,23,46.25,0.063,0.16,nn,nn00728585,2020-05-19T09:58:32.303Z,"61km WNW of Tonopah, Nevada",earthquake,,0.8,,,automatic,nn,nn
+2020-05-19T09:48:50.239Z,38.1368,-118.0631,6.3,3.9,ml,27,43.92,0.082,0.1572,nn,nn00728581,2020-05-19T11:56:35.131Z,"63km SE of Hawthorne, Nevada",earthquake,,1.1,0.24,9,reviewed,nn,nn
+2020-05-19T09:47:53.790Z,38.1615,-117.7667,0,1.7,ml,9,141.26,0.165,0.34,nn,nn00728580,2020-05-19T09:51:51.274Z,"48km WNW of Tonopah, Nevada",earthquake,,13.8,,,automatic,nn,nn
+2020-05-19T09:46:17.758Z,63.1443,-151.43,13.9,1.4,ml,,,,0.71,ak,ak0206fovdvz,2020-05-19T09:56:09.189Z,"113km NW of Talkeetna, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2020-05-19T09:45:47.224Z,27.8533,129.5492,32.97,4.9,mb,,96,1.522,0.59,us,us70009kmn,2020-05-19T10:13:57.040Z,"57km S of Naze, Japan",earthquake,6.5,5.6,0.048,137,reviewed,us,us
+2020-05-19T09:45:15.580Z,38.1653,-117.9067,0,1.5,ml,10,131.25,0.16,0.44,nn,nn00728579,2020-05-19T09:49:31.091Z,"60km W of Tonopah, Nevada",earthquake,,34,,,automatic,nn,nn
+2020-05-19T09:42:37.044Z,62.7902,-150.9402,33.5,1.3,ml,,,,1.59,ak,ak0206foukig,2020-05-19T09:53:58.138Z,"67km NW of Talkeetna, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2020-05-19T09:41:16.570Z,38.1055,-117.6938,8.3,2.3,ml,14,127.85,0.125,0.54,nn,nn00728575,2020-05-19T09:46:52.143Z,"40km W of Tonopah, Nevada",earthquake,,26.1,,,automatic,nn,nn
+2020-05-19T09:38:28.440Z,33.4956667,-116.7903333,6.25,1.01,ml,35,31,0.01864,0.15,ci,ci39206935,2020-05-19T09:42:14.737Z,"9km NE of Aguanga, CA",earthquake,0.17,0.5,0.119,27,automatic,ci,ci
+2020-05-19T09:37:55.260Z,38.185,-117.8713,1,1.8,ml,16,52.73,0.081,0.25,nn,nn00728572,2020-05-19T09:42:51.654Z,"57km WNW of Tonopah, Nevada",earthquake,,16.2,,,automatic,nn,nn
+2020-05-19T09:37:53.255Z,66.2891,-146.8934,10,1.3,ml,,,,0.84,ak,ak0206fotj6l,2020-05-19T09:44:24.826Z,"78km WSW of Fort Yukon, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2020-05-19T09:35:14.200Z,38.1605,-117.9088,7.5,1.7,ml,18,130.91,0.157,0.16,nn,nn00728569,2020-05-19T09:38:51.552Z,"60km W of Tonopah, Nevada",earthquake,,15,,,automatic,nn,nn
+2020-05-19T09:33:10.570Z,38.1463,-118.0773,1.9,1.8,ml,12,131.79,0.088,0.05,nn,nn00728566,2020-05-19T09:36:50.718Z,"63km SE of Hawthorne, Nevada",earthquake,,8.9,,,automatic,nn,nn
+2020-05-19T09:32:23.080Z,37.6443329,-118.9278336,-0.62,1.4,md,10,90,0.02044,0.03,nc,nc73390036,2020-05-19T12:02:03.047Z,"5km E of Mammoth Lakes, CA",earthquake,0.23,0.49,0.17,9,automatic,nc,nc
+2020-05-19T09:31:27.700Z,38.1492,-117.8805,3.1,2.1,ml,19,52.91,0.499,0.21,nn,nn00728565,2020-05-19T09:35:11.532Z,"57km W of Tonopah, Nevada",earthquake,,19,,,automatic,nn,nn
+2020-05-19T09:24:45.005Z,34.1033,25.7248,10,4.9,mb,,37,1.367,0.89,us,us70009km0,2020-05-19T09:43:19.040Z,"100km S of Ierapetra, Greece",earthquake,6.6,1.7,0.037,228,reviewed,us,us
+2020-05-19T09:24:28.160Z,38.233,-117.7813,4.3,2.4,ml,23,51.41,0.155,0.12,nn,nn00728563,2020-05-19T09:32:51.906Z,"51km WNW of Tonopah, Nevada",earthquake,,1.6,,,automatic,nn,nn
+2020-05-19T09:20:11.390Z,38.1337,-118.0582,7.9,3,ml,31,54.9,0.072,0.13,nn,nn00728557,2020-05-19T09:25:53.074Z,"65km SE of Hawthorne, Nevada",earthquake,,1.1,,,automatic,nn,nn
+2020-05-19T09:15:33.520Z,38.1458,-117.9283,7.7,1.8,ml,13,89.83,0.026,0.09,nn,nn00728555,2020-05-19T09:21:11.371Z,"61km W of Tonopah, Nevada",earthquake,,0.5,,,automatic,nn,nn
+2020-05-19T09:12:30.660Z,19.8059998,-156.0506592,9.52,2.6,ml,53,242,0.2357,0.28,hv,hv71518927,2020-05-19T09:36:45.769Z,"11km NW of Kalaoa, Hawaii",earthquake,2.58,3.47,4.48,10,automatic,hv,hv
+2020-05-19T09:11:56.020Z,38.1377,-118.0575,8.1,3,ml,28,75.77,0.075,0.18,nn,nn00728552,2020-05-19T09:16:33.541Z,"65km SE of Hawthorne, Nevada",earthquake,,1.7,,,automatic,nn,nn
+2020-05-19T09:08:33.875Z,38.1782,-117.8017,10.5,4.3,ml,25,48.55,0.125,0.1638,nn,nn00728546,2020-05-19T11:09:56.951Z,"52km WNW of Tonopah, Nevada",earthquake,,0.8,0.33,7,reviewed,nn,nn
+2020-05-19T09:07:43.530Z,19.2153339,-155.414505,31.81,1.79,md,30,157,0.02729,0.15,hv,hv71518917,2020-05-19T09:10:57.120Z,"6km E of Pahala, Hawaii",earthquake,0.64,0.84,0.27,4,automatic,hv,hv
+2020-05-19T09:05:26.470Z,38.252,-117.8478,0.5,1.3,ml,10,192.87,0.16,0.04,nn,nn00728545,2020-05-19T09:09:31.701Z,"57km WNW of Tonopah, Nevada",earthquake,,8.6,,,automatic,nn,nn
+2020-05-19T08:59:28.180Z,38.109,-118.0263,12,2.9,ml,32,69.81,0.719,0.34,nn,nn00728540,2020-05-19T09:03:12.547Z,"69km SE of Hawthorne, Nevada",earthquake,,1.8,,,automatic,nn,nn
+2020-05-19T08:56:00.510Z,35.9585,-117.6621667,4.42,0.68,ml,9,158,0.01426,0.08,ci,ci39206895,2020-05-19T08:59:46.794Z,"22km E of Little Lake, CA",earthquake,0.48,0.34,0.108,5,automatic,ci,ci
+2020-05-19T08:54:05.860Z,38.1518,-117.9302,0.8,1.3,ml,10,129.09,0.012,0.12,nn,nn00728539,2020-05-19T09:00:30.883Z,"62km W of Tonopah, Nevada",earthquake,,9.1,,,automatic,nn,nn
+2020-05-19T08:53:01.170Z,38.1807,-117.7952,0.2,1.1,ml,9,150.3,0.183,0.11,nn,nn00728538,2020-05-19T08:56:11.093Z,"51km WNW of Tonopah, Nevada",earthquake,,9.2,,,automatic,nn,nn
+2020-05-19T08:49:26.240Z,38.1998,-117.8192,7.1,1.7,ml,10,192.38,0.15,0.15,nn,nn00728537,2020-05-19T08:55:10.495Z,"53km WNW of Tonopah, Nevada",earthquake,,2.3,,,automatic,nn,nn
+2020-05-19T08:42:59.111Z,34.1589,25.6047,10,4.4,mb,,170,1.27,1.09,us,us70009kku,2020-05-19T09:10:55.040Z,"95km S of Ierapetra, Greece",earthquake,7.8,1.9,0.101,28,reviewed,us,us
+2020-05-19T08:41:09.810Z,38.2003,-117.8048,2.9,2.2,ml,13,120.67,0.483,0.27,nn,nn00728534,2020-05-19T08:50:51.738Z,"52km WNW of Tonopah, Nevada",earthquake,,3,,,automatic,nn,nn
+2020-05-19T08:40:59.016Z,38.1655,-118.0075,1.1,1.8,ml,9,129.68,0.046,0.2164,nn,nn00728536,2020-05-19T08:50:57.391Z,"67km SE of Hawthorne, Nevada",earthquake,,1,0.45,5,reviewed,nn,nn
+2020-05-19T08:39:54.010Z,38.1163,-117.8917,1.7,1.6,ml,11,191.8,0.087,0.39,nn,nn00728533,2020-05-19T08:43:11.152Z,"58km W of Tonopah, Nevada",earthquake,,12.8,,,automatic,nn,nn
+2020-05-19T08:39:01.466Z,-20.9035,-178.4207,594.24,4.5,mb,,115,4.578,0.88,us,us70009kl0,2020-05-19T09:00:48.040Z,"40km SE of Ndoi Island, Fiji",earthquake,13.4,7.2,0.051,113,reviewed,us,us
+2020-05-19T08:33:05.690Z,37.3408,-117.605,12.6,1.7,ml,12,176.53,0.075,0.07,nn,nn00728530,2020-05-19T08:41:11.614Z,"52km SW of Goldfield, Nevada",earthquake,,9.2,,,automatic,nn,nn
+2020-05-19T08:32:28.240Z,38.0265,-117.5955,0,1.7,ml,8,159.04,0.295,0.49,nn,nn00728529,2020-05-19T08:35:51.296Z,"32km W of Tonopah, Nevada",earthquake,,27.2,,,automatic,nn,nn
+2020-05-19T08:28:33.540Z,38.1927,-117.7632,0.8,2,ml,12,94.24,0.163,0.07,nn,nn00728527,2020-05-19T08:37:03.743Z,"48km WNW of Tonopah, Nevada",earthquake,,7.6,,,automatic,nn,nn
+2020-05-19T08:26:04.144Z,38.1447,-118.0344,0.1,2.4,ml,18,98.6,0.059,0.3489,nn,nn00728524,2020-05-19T08:29:29.512Z,"66km SE of Hawthorne, Nevada",earthquake,,0.4,0.22,9,reviewed,nn,nn
+2020-05-19T08:24:52.170Z,38.1515,-117.9762,12.7,2.7,ml,29,47.87,0.024,0.1,nn,nn00728520,2020-05-19T08:28:32.152Z,"66km W of Tonopah, Nevada",earthquake,,0.7,,,automatic,nn,nn
+2020-05-19T08:22:25.340Z,35.954,-117.375,0.25,0.64,ml,10,136,0.1849,0.2,ci,ci39206879,2020-05-19T08:26:05.778Z,"21km N of Searles Valley, CA",earthquake,0.72,31.61,0.122,7,automatic,ci,ci
+2020-05-19T08:22:21.620Z,38.1403,-118.0183,5.9,2.5,ml,18,62.28,0.053,0.13,nn,nn00728517,2020-05-19T08:25:33.388Z,"68km SE of Hawthorne, Nevada",earthquake,,0.4,,,automatic,nn,nn
+2020-05-19T08:19:40.390Z,38.1853,-117.7935,0.2,1.6,ml,15,116.39,0.372,0.44,nn,nn00728514,2020-05-19T08:22:51.234Z,"51km WNW of Tonopah, Nevada",earthquake,,25.5,,,automatic,nn,nn
+2020-05-19T08:16:52.100Z,38.1825,-117.8567,13.6,2.6,ml,27,49.31,0.084,0.1,nn,nn00728512,2020-05-19T08:21:13.712Z,"56km WNW of Tonopah, Nevada",earthquake,,0.9,,,automatic,nn,nn
+2020-05-19T08:15:07.500Z,38.142,-117.883,10.7,1.7,ml,14,106.93,0.066,0.13,nn,nn00728511,2020-05-19T08:18:52.513Z,"57km W of Tonopah, Nevada",earthquake,,1,,,automatic,nn,nn
+2020-05-19T08:12:57.820Z,38.155,-117.9502,10.6,1.6,ml,18,122.34,0.017,0.11,nn,nn00728508,2020-05-19T08:16:30.529Z,"63km W of Tonopah, Nevada",earthquake,,0.6,,,automatic,nn,nn
+2020-05-19T08:08:58.780Z,38.1555,-117.9377,11.6,1.9,ml,14,127.56,0.154,0.06,nn,nn00728506,2020-05-19T08:14:10.310Z,"62km W of Tonopah, Nevada",earthquake,,8.9,,,automatic,nn,nn
+2020-05-19T08:06:45.510Z,38.7868347,-122.7438354,2.01,0.4,md,7,85,0.006617,0.01,nc,nc73389961,2020-05-19T08:28:03.684Z,"2km NE of The Geysers, CA",earthquake,0.45,1.38,0.17,2,automatic,nc,nc
+2020-05-19T08:06:12.710Z,38.223,-117.8357,1.6,2.1,ml,8,136.16,0.11,0.25,nn,nn00728504,2020-05-19T08:09:52.670Z,"55km WNW of Tonopah, Nevada",earthquake,,17.1,,,automatic,nn,nn
+2020-05-19T08:05:55.230Z,38.1648,-117.8727,4.4,2,ml,16,94.48,0.163,0.07,nn,nn00728503,2020-05-19T08:09:31.413Z,"57km W of Tonopah, Nevada",earthquake,,10.2,,,automatic,nn,nn
+2020-05-19T08:03:22.452Z,35.309,27.8425,10,4.2,mb,,121,0.605,1.34,us,us70009kju,2020-05-19T08:22:40.040Z,"61km ESE of Karpathos, Greece",earthquake,4,1.9,0.121,19,reviewed,us,us
+2020-05-19T08:02:57.140Z,38.2277,-117.779,3.5,2.4,ml,27,51.44,0.166,0.11,nn,nn00728500,2020-05-19T08:07:11.800Z,"51km WNW of Tonopah, Nevada",earthquake,,0.9,,,automatic,nn,nn
+2020-05-19T08:01:12.790Z,38.1737,-117.8773,0.5,2,ml,21,61.32,0.17,0.08,nn,nn00728496,2020-05-19T08:04:31.383Z,"57km WNW of Tonopah, Nevada",earthquake,,7.2,,,automatic,nn,nn
+2020-05-19T07:57:35.340Z,34.2753333,-117.1733333,3.12,1.19,ml,31,67,0.1211,0.18,ci,ci39206871,2020-05-19T08:01:12.452Z,"3km NNE of Lake Arrowhead, CA",earthquake,0.25,0.94,0.168,29,automatic,ci,ci
+2020-05-19T07:57:23.190Z,38.159,-117.858,10.9,1.9,ml,9,120.88,0.087,0.19,nn,nn00728495,2020-05-19T08:02:18.476Z,"56km W of Tonopah, Nevada",earthquake,,1.1,,,automatic,nn,nn
+2020-05-19T07:57:06.699Z,66.2714,-157.2312,8.2,1.5,ml,,,,0.34,ak,ak0206fnqup9,2020-05-19T08:06:25.175Z,"72km SSW of Kobuk, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2020-05-19T07:55:10.819Z,36.2362,137.7309,10,4.6,mb,,99,0.491,0.84,us,us70009kjx,2020-05-19T08:16:42.040Z,"16km WSW of Toyoshina, Japan",earthquake,2.4,1.9,0.117,22,reviewed,us,us
+2020-05-19T07:46:12.400Z,38.185,-117.7638,0.6,1.5,ml,13,117.28,0.194,0.04,nn,nn00728492,2020-05-19T07:57:51.006Z,"48km WNW of Tonopah, Nevada",earthquake,,6.8,,,automatic,nn,nn
+2020-05-19T07:44:09.980Z,38.1235,-118.065,0.7,1.9,ml,15,131.04,0.091,0.22,nn,nn00728490,2020-05-19T07:47:51.190Z,"66km SE of Hawthorne, Nevada",earthquake,,16.5,,,automatic,nn,nn
+2020-05-19T07:41:09.380Z,33.2145,-116.5568333,0.11,0.41,ml,13,120,0.07735,0.31,ci,ci39206863,2020-05-19T07:45:06.790Z,"10km SE of Warner Springs, CA",earthquake,0.72,31.61,0.106,6,automatic,ci,ci
+2020-05-19T07:35:32.950Z,38.1693,-117.8342,6.7,1.9,ml,22,93.83,0.09,0.15,nn,nn00728486,2020-05-19T07:45:31.426Z,"54km WNW of Tonopah, Nevada",earthquake,,1.1,,,automatic,nn,nn
+2020-05-19T07:35:01.505Z,62.1879,-151.0981,80.9,1.4,ml,,,,0.51,ak,ak0206fnm4ja,2020-05-19T07:39:18.282Z,"53km WSW of Talkeetna, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2020-05-19T07:27:37.370Z,38.1875,-117.8253,11.5,1.2,ml,12,154.33,0.128,0.03,nn,nn00728484,2020-05-19T07:36:31.265Z,"53km WNW of Tonopah, Nevada",earthquake,,2.1,,,automatic,nn,nn
+2020-05-19T07:24:02.610Z,38.1221,-118.099,0,1.7,ml,13,119.77,0.111,0.3222,nn,nn00728482,2020-05-19T07:29:09.448Z,"64km SE of Hawthorne, Nevada",earthquake,,5.2,0.22,7,reviewed,nn,nn
+2020-05-19T07:19:00.516Z,5.8942,-77.4613,10,5,mb,,104,3.295,1.18,us,us70009kin,2020-05-19T07:36:57.040Z,"29km NW of Nuqui, Colombia",earthquake,4.2,1.8,0.026,452,reviewed,us,us
+2020-05-19T07:18:13.840Z,38.1513,-118.038,3.4,1.5,ml,12,149.91,0.072,0.06,nn,nn00728480,2020-05-19T07:25:30.235Z,"65km SE of Hawthorne, Nevada",earthquake,,2,,,automatic,nn,nn
+2020-05-19T07:15:39.200Z,32.4104996,-115.2156677,10.98,3.31,ml,28,68,0.07609,0.39,ci,ci39206855,2020-05-19T07:55:15.040Z,"6km NNW of Delta, B.C., MX",earthquake,0.58,1.15,0.356,20,automatic,ci,ci
+2020-05-19T07:13:49.990Z,38.1735,-117.8403,6.1,2.3,ml,18,48.47,0.111,0.16,nn,nn00728478,2020-05-19T07:19:31.450Z,"54km WNW of Tonopah, Nevada",earthquake,,0.9,,,automatic,nn,nn
+2020-05-19T07:13:09.350Z,32.4081667,-115.219,5.56,2.82,ml,20,101,0.07361,0.33,ci,ci39206847,2020-05-19T08:10:22.040Z,"6km NNW of Delta, B.C., MX",earthquake,0.65,1.97,0.262,27,automatic,ci,ci
+2020-05-19T07:10:48.360Z,40.1303329,-123.7868347,27.68,2.71,ml,7,85,0.08601,0.54,nc,nc73389916,2020-05-19T09:56:03.289Z,"3km ENE of Redway, CA",earthquake,24.09,25.45,0.289,6,automatic,nc,nc
+2020-05-19T07:10:45.960Z,38.1478,-118.0357,0.9,1.2,ml,12,143.49,0.056,0.09,nn,nn00728476,2020-05-19T07:14:50.430Z,"66km SE of Hawthorne, Nevada",earthquake,,6.8,,,automatic,nn,nn
+2020-05-19T07:10:40.700Z,42.0378333333333,-124.971833333333,50.53,3.09,ml,7,314,0.5067,0.33,uw,uw61616642,2020-05-19T07:47:25.700Z,"56km W of Brookings, Oregon",earthquake,12.49,31.61,0.32776283364248,21,reviewed,uw,uw
+2020-05-19T07:10:10.625Z,40.8583,-127.3275,10,4.4,mb,,207,2.479,1.52,us,us70009ki1,2020-05-19T11:58:05.453Z,"260km W of Ferndale, California",earthquake,9,2,0.123,25,reviewed,us,us
+2020-05-19T07:05:29.860Z,38.2335,-117.7618,4.6,1.2,ml,9,179.34,0.221,0.03,nn,nn00728475,2020-05-19T07:08:50.415Z,"50km WNW of Tonopah, Nevada",earthquake,,8.1,,,automatic,nn,nn
+2020-05-19T07:03:19.750Z,38.2283,-117.7777,0,2.8,ml,15,93.21,0.165,0.49,nn,nn00728470,2020-05-19T08:49:48.040Z,"52km WNW of Tonopah, Nevada",earthquake,,23,,,automatic,nn,nn
+2020-05-19T07:02:01.590Z,38.0639992,-118.7338333,10.29,3.21,ml,40,66,0.2599,0.06,nc,nc73389911,2020-05-19T09:41:04.174Z,"29km SE of Bodie, CA",earthquake,0.28,1.15,0.299,20,automatic,nc,nc
+2020-05-19T06:57:50.730Z,38.1335,-118.067,2.1,1.7,ml,12,94.05,0.074,0.22,nn,nn00728461,2020-05-19T07:03:11.191Z,"65km SE of Hawthorne, Nevada",earthquake,,2,,,automatic,nn,nn
+2020-05-19T06:53:56.070Z,37.6351662,-119.4161682,12.27,2.99,md,32,76,0.3062,0.09,nc,nc73389906,2020-05-19T10:26:52.156Z,"18km SE of Yosemite Valley, CA",earthquake,0.3,1.25,0.19,31,automatic,nc,nc
+2020-05-19T06:53:03.140Z,38.1895,-117.8932,2,1.3,ml,9,137.09,0.054,0.04,nn,nn00728459,2020-05-19T06:59:37.886Z,"59km WNW of Tonopah, Nevada",earthquake,,7.5,,,automatic,nn,nn
+2020-05-19T06:49:08.570Z,38.1615,-117.8313,9.6,1.6,ml,13,94.88,0.49,0.06,nn,nn00728457,2020-05-19T06:54:51.142Z,"53km WNW of Tonopah, Nevada",earthquake,,8.6,,,automatic,nn,nn
+2020-05-19T06:41:47.450Z,35.7328333,-117.563,3.91,1.04,ml,13,149,0.08736,0.17,ci,ci39206815,2020-05-19T06:45:32.712Z,"15km WSW of Searles Valley, CA",earthquake,0.47,1.25,0.056,13,automatic,ci,ci
+2020-05-19T06:39:20.650Z,38.1505,-117.9837,10.3,2.8,ml,32,47.97,0.027,0.14,nn,nn00728451,2020-05-19T06:42:32.590Z,"66km W of Tonopah, Nevada",earthquake,,0.6,,,automatic,nn,nn
+2020-05-19T06:38:08.410Z,38.1418,-118.0832,0.7,2.4,ml,17,63.83,0.101,0.3,nn,nn00728450,2020-05-19T06:41:31.075Z,"63km SE of Hawthorne, Nevada",earthquake,,16.7,,,automatic,nn,nn
+2020-05-19T06:36:43.610Z,38.1758,-117.8647,0.1,1.5,ml,10,147,0.067,0.03,nn,nn00728449,2020-05-19T06:40:10.500Z,"56km WNW of Tonopah, Nevada",earthquake,,8.3,,,automatic,nn,nn
+2020-05-19T06:36:20.929Z,61.881,-151.08,65.1,1.5,ml,,,,0.49,ak,ak0206fn0y5i,2020-05-19T06:40:56.064Z,"56km WNW of Willow, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2020-05-19T06:33:55.310Z,38.152,-117.9323,0.8,1.8,ml,20,103.56,0.158,0.09,nn,nn00728445,2020-05-19T06:38:31.306Z,"62km W of Tonopah, Nevada",earthquake,,8.2,,,automatic,nn,nn
+2020-05-19T06:33:28.110Z,33.625,-116.2435,28.46,0.85,ml,12,219,0.3283,0.23,ci,ci39206807,2020-05-19T06:37:14.389Z,"8km SE of La Quinta, CA",earthquake,2.29,1.18,0.097,9,automatic,ci,ci
+2020-05-19T06:32:43.810Z,36.5813332,-121.1764984,5.75,2.29,md,29,113,0.01199,0.07,nc,nc73389881,2020-05-19T08:56:02.855Z,"6km NNW of Pinnacles, CA",earthquake,0.25,0.52,0.22,27,automatic,nc,nc
+2020-05-19T06:21:37.020Z,38.7978325,-122.75,1.56,0.65,md,8,97,0.008085,0.01,nc,nc73389866,2020-05-19T06:37:02.003Z,"2km NNE of The Geysers, CA",earthquake,0.44,0.88,0.08,2,automatic,nc,nc
+2020-05-19T06:19:32.053Z,38.1572,-117.9444,8,2.1,ml,19,72.11,0.022,0.1777,nn,nn00728438,2020-05-19T07:09:33.492Z,"63km W of Tonopah, Nevada",earthquake,,1.1,0.31,8,reviewed,nn,nn
+2020-05-19T06:19:08.700Z,38.1617,-117.9188,9.3,2,ml,18,127.54,0.02,0.05,nn,nn00728437,2020-05-19T06:22:51.258Z,"61km W of Tonopah, Nevada",earthquake,,0.8,,,automatic,nn,nn
+2020-05-19T06:17:39.920Z,38.1997,-117.8595,3.7,1.4,ml,12,111.9,0.084,0.12,nn,nn00728435,2020-05-19T06:20:50.927Z,"57km WNW of Tonopah, Nevada",earthquake,,2.1,,,automatic,nn,nn
+2020-05-19T06:05:39.280Z,38.1675,-117.8318,6.8,2,ml,15,93.68,0.352,0.18,nn,nn00728432,2020-05-19T06:19:10.625Z,"53km WNW of Tonopah, Nevada",earthquake,,17.2,,,automatic,nn,nn
+2020-05-19T06:02:16.830Z,38.063,-118.7705,1.2,1.6,ml,8,143.01,0.282,0.26,nn,nn00728431,2020-05-19T06:06:50.273Z,"45km ESE of Bridgeport, California",earthquake,,18.5,,,automatic,nn,nn
+2020-05-19T05:59:47.432Z,60.2546,-152.4746,100.9,1.3,ml,,,,0.47,ak,ak0206fmki29,2020-05-19T06:02:57.493Z,"29km SSE of Redoubt Volcano, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2020-05-19T05:58:55.290Z,38.1327,-118.0983,0.9,1.5,ml,8,175.85,0.739,0.28,nn,nn00728430,2020-05-19T06:05:10.845Z,"63km SE of Hawthorne, Nevada",earthquake,,17.7,,,automatic,nn,nn
+2020-05-19T05:53:22.880Z,38.1918,-117.9583,4.5,2.3,ml,20,75.47,0.059,0.1,nn,nn00728428,2020-05-19T06:00:11.041Z,"65km WNW of Tonopah, Nevada",earthquake,,0.6,,,automatic,nn,nn
+2020-05-19T05:48:30.644Z,36.34171677,-97.61232758,1.349435568,2.38,ml,68,30.14645386,0.1672724336,0.6223528411,ok,ok2020jukk,2020-05-19T05:51:57.781Z,"24km ESE of Enid, Oklahoma",earthquake,1.322648942,1.178423613,,51,automatic,ok,ok
+2020-05-19T05:47:05.600Z,38.1802,-117.8642,12,2.2,ml,22,49.01,0.086,0.15,nn,nn00728425,2020-05-19T05:54:52.078Z,"57km WNW of Tonopah, Nevada",earthquake,,1.2,,,automatic,nn,nn
+2020-05-19T05:43:35.910Z,19.2070007,-155.3959961,33.49,2,md,46,157,0.03038,0.12,hv,hv71518787,2020-05-19T05:47:03.380Z,"8km E of Pahala, Hawaii",earthquake,0.61,0.81,0.15,15,automatic,hv,hv
+2020-05-19T05:42:31.150Z,37.1108322,-121.2608337,3.15,1.66,md,23,67,0.05219,0.1,nc,nc73389841,2020-05-19T07:58:03.502Z,"28km SW of Gustine, CA",earthquake,0.26,1.49,0.18,18,automatic,nc,nc
+2020-05-19T05:42:08.559Z,38.185,-117.7824,0,2.1,ml,18,48.77,0.147,0.2529,nn,nn00728422,2020-05-19T06:51:04.811Z,"50km WNW of Tonopah, Nevada",earthquake,,3.7,0.27,10,reviewed,nn,nn
+2020-05-19T05:40:05.300Z,38.1767,-117.9347,0.1,2,ml,9,108.3,0.051,0.34,nn,nn00728420,2020-05-19T05:43:30.817Z,"62km WNW of Tonopah, Nevada",earthquake,,10,,,automatic,nn,nn
+2020-05-19T05:32:18.078Z,38.1609,-117.9305,6.7,2.8,ml,25,45.2,0.032,0.2255,nn,nn00728416,2020-05-19T06:41:48.674Z,"62km W of Tonopah, Nevada",earthquake,,1,0.27,11,reviewed,nn,nn
+2020-05-19T05:23:36.460Z,38.1717,-117.774,6.4,2,ml,18,70.31,0.16,0.13,nn,nn00728412,2020-05-19T05:33:31.259Z,"49km WNW of Tonopah, Nevada",earthquake,,1.2,,,automatic,nn,nn
+2020-05-19T05:22:05.900Z,38.1722,-117.9915,10.2,1.9,ml,15,152.08,0.05,0.11,nn,nn00728411,2020-05-19T05:25:31.241Z,"67km SE of Hawthorne, Nevada",earthquake,,0.4,,,automatic,nn,nn
+2020-05-19T05:15:39.090Z,17.9318,-66.6286,7,3.5,md,21,190,0.1132,0.32,pr,pr2020140000,2020-05-19T12:15:49.024Z,"8km S of Ponce, Puerto Rico",earthquake,0.65,0.39,0.11,17,reviewed,pr,pr
+2020-05-19T05:12:00.690Z,39.2535019,-123.2146683,5.84,1.02,md,7,98,0.05291,0.02,nc,nc73389826,2020-05-19T05:26:03.559Z,"2km SW of Redwood Valley, CA",earthquake,0.38,1.04,0.15,3,automatic,nc,nc
+2020-05-19T05:10:26.760Z,38.1627,-118.0087,5.8,1.6,ml,18,118.14,0.052,0.1,nn,nn00728408,2020-05-19T05:14:30.932Z,"67km SE of Hawthorne, Nevada",earthquake,,0.6,,,automatic,nn,nn
+2020-05-19T05:08:44.354Z,38.1455,-117.9898,0.8,1.1,ml,10,129.37,0.025,0.1678,nn,nn00728407,2020-05-19T05:12:09.577Z,"67km W of Tonopah, Nevada",earthquake,,0.4,0.19,4,reviewed,nn,nn
+2020-05-19T05:08:16.991Z,36.8659935,-97.45642853,3.067069292,1.79,ml,27,125.0824509,0.147609055,0.3159500415,ok,ok2020jujc,2020-05-19T05:11:29.189Z,"16km WNW of Blackwell, Oklahoma",earthquake,2.913696035,1.989933387,,21,automatic,ok,ok
+2020-05-19T05:01:33.250Z,38.1757,-117.8525,4.6,2.7,ml,31,48.09,0.102,0.11,nn,nn00728403,2020-05-19T05:04:51.970Z,"55km WNW of Tonopah, Nevada",earthquake,,0.8,,,automatic,nn,nn
+2020-05-19T04:55:58.920Z,38.1462,-117.9608,11.7,1.5,ml,8,103.69,0.012,0.04,nn,nn00728402,2020-05-19T05:02:30.150Z,"64km W of Tonopah, Nevada",earthquake,,0.6,,,automatic,nn,nn
+2020-05-19T04:53:04.870Z,33.5251667,-116.776,6.34,0.54,ml,23,37,0.02401,0.13,ci,ci39206687,2020-05-19T04:56:44.983Z,"10km WSW of Anza, CA",earthquake,0.2,0.51,0.111,14,automatic,ci,ci
+2020-05-19T04:52:46.510Z,38.186,-117.7762,12.4,2.1,ml,24,69.44,0.157,0.08,nn,nn00728398,2020-05-19T04:57:11.088Z,"49km WNW of Tonopah, Nevada",earthquake,,1.6,,,automatic,nn,nn
+2020-05-19T04:51:56.210Z,38.2173,-117.7487,0.8,1.8,ml,12,159.73,0.169,0.16,nn,nn00728396,2020-05-19T04:55:31.008Z,"48km WNW of Tonopah, Nevada",earthquake,,11.8,,,automatic,nn,nn
+2020-05-19T04:47:25.400Z,38.1168,-118.0017,6.2,1.8,ml,8,128.29,0.051,0.28,nn,nn00728395,2020-05-19T04:53:10.259Z,"67km W of Tonopah, Nevada",earthquake,,1.1,,,automatic,nn,nn
+2020-05-19T04:38:56.420Z,38.1247,-118.0443,6.5,1.6,ml,9,113.75,0.075,0.13,nn,nn00728393,2020-05-19T04:48:57.773Z,"67km SE of Hawthorne, Nevada",earthquake,,0.8,,,automatic,nn,nn
+2020-05-19T04:37:33.090Z,38.1697,-117.9557,5.6,1.6,ml,11,105.51,0.032,0.19,nn,nn00728390,2020-05-19T04:48:50.211Z,"64km W of Tonopah, Nevada",earthquake,,0.5,,,automatic,nn,nn
+2020-05-19T04:36:35.600Z,38.1895,-117.8765,11,1.5,ml,14,147.6,0.091,0.05,nn,nn00728388,2020-05-19T04:39:50.826Z,"58km WNW of Tonopah, Nevada",earthquake,,1.6,,,automatic,nn,nn
+2020-05-19T04:35:14.260Z,38.1208,-117.9055,26.7,2,ml,10,143.41,0.398,0.06,nn,nn00728387,2020-05-19T04:38:51.887Z,"59km W of Tonopah, Nevada",earthquake,,8.2,,,automatic,nn,nn
+2020-05-19T04:34:42.270Z,38.1248,-118.078,3.9,1.7,ml,17,118.85,0.1,0.09,nn,nn00728383,2020-05-19T04:38:10.733Z,"65km SE of Hawthorne, Nevada",earthquake,,1.1,,,automatic,nn,nn
+2020-05-19T04:27:32.200Z,38.1692,-117.8757,9,2.3,ml,24,49.13,0.078,0.1,nn,nn00728379,2020-05-19T04:31:11.270Z,"57km WNW of Tonopah, Nevada",earthquake,,1.1,,,automatic,nn,nn
+2020-05-19T04:23:49.063Z,34.1655,25.5589,10,4.2,mb,,162,1.248,0.89,us,us70009kdz,2020-05-19T04:41:04.040Z,"95km S of Ierapetra, Greece",earthquake,7.9,2,0.106,25,reviewed,us,us
+2020-05-19T04:20:25.460Z,38.1577,-117.8777,6.1,1.5,ml,8,128.82,0.009,0.09,nn,nn00728377,2020-05-19T04:28:30.032Z,"57km W of Tonopah, Nevada",earthquake,,1.3,,,automatic,nn,nn
+2020-05-19T04:18:59.165Z,63.4505,-149.7134,99.2,2.1,ml,,,,0.76,ak,ak0206flqb26,2020-05-19T04:30:56.204Z,"38km W of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2020-05-19T04:18:10.630Z,38.1797,-117.8435,2.6,2.4,ml,27,94,0.095,0.08,nn,nn00728375,2020-05-19T04:21:51.421Z,"55km WNW of Tonopah, Nevada",earthquake,,0.8,,,automatic,nn,nn
+2020-05-19T04:17:58.630Z,40.3893318,-124.6829987,23.85,2.57,md,18,270,0.2774,0.14,nc,nc73389791,2020-05-19T07:14:03.222Z,"34km WNW of Petrolia, CA",earthquake,3.1,1.77,0.23,8,automatic,nc,nc
+2020-05-19T04:15:44.322Z,34.3574,25.5275,10,4.2,mb,,125,1.066,0.84,us,us70009kdb,2020-05-19T04:36:15.040Z,"74km SSW of Ierapetra, Greece",earthquake,6.3,2,0.102,27,reviewed,us,us
+2020-05-19T04:13:00.140Z,36.2467,137.6936,10,5.3,mww,,96,0.508,0.98,us,us70009kd9,2020-05-19T10:53:46.423Z,"19km WSW of Hotaka, Japan",earthquake,3,1.8,0.098,10,reviewed,us,us
+2020-05-19T04:10:52.600Z,38.1697,-117.9482,7.9,2,ml,15,104.98,0.03,0.15,nn,nn00728373,2020-05-19T04:15:10.190Z,"63km W of Tonopah, Nevada",earthquake,,1,,,automatic,nn,nn
+2020-05-19T04:09:26.230Z,38.154,-117.9462,10.2,1.9,ml,19,103.19,0.017,0.12,nn,nn00728370,2020-05-19T04:12:50.800Z,"63km W of Tonopah, Nevada",earthquake,,0.8,,,automatic,nn,nn
+2020-05-19T04:06:34.170Z,38.1935,-117.8475,1,1.7,ml,12,91.6,0.047,0.12,nn,nn00728368,2020-05-19T04:10:50.588Z,"55km WNW of Tonopah, Nevada",earthquake,,11.1,,,automatic,nn,nn
+2020-05-19T04:06:11.910Z,35.3860016,-120.8311691,2.5,2.08,md,15,209,0.158,0.06,nc,nc73389776,2020-05-19T06:12:48.035Z,"3km NE of Morro Bay, CA",earthquake,0.98,2.3,0.2,9,automatic,nc,nc
+2020-05-19T04:02:59.020Z,38.1713,-117.8742,8,1.5,ml,14,133.72,0.073,0.1,nn,nn00728367,2020-05-19T04:07:50.466Z,"57km WNW of Tonopah, Nevada",earthquake,,2.2,,,automatic,nn,nn
+2020-05-19T03:57:12.450Z,38.1312,-117.9993,8.8,1.8,ml,13,112.34,0.063,0.03,nn,nn00728364,2020-05-19T04:00:50.743Z,"67km W of Tonopah, Nevada",earthquake,,2.6,,,automatic,nn,nn
+2020-05-19T03:49:30.700Z,38.1848,-117.7672,5.9,1.8,ml,10,118.22,0.159,0.01,nn,nn00728363,2020-05-19T03:57:10.106Z,"48km WNW of Tonopah, Nevada",earthquake,,0.7,,,automatic,nn,nn
+2020-05-19T03:45:57.420Z,35.5521667,-118.3366667,0.34,1.5,ml,14,135,0.1432,0.28,ci,ci39206647,2020-05-19T03:49:49.162Z,"14km ESE of Lake Isabella, CA",earthquake,0.71,1.14,0.129,15,automatic,ci,ci
+2020-05-19T03:43:22.820Z,38.1443,-117.8902,8.2,3.5,ml,30,49.64,0.055,0.2299,nn,nn00728359,2020-05-19T04:17:52.381Z,"57km W of Tonopah, Nevada",earthquake,,0.8,0.29,14,reviewed,nn,nn
+2020-05-19T03:36:29.720Z,19.2198334,-155.3968353,30.36,2.11,md,43,155,0.01759,0.13,hv,hv71518687,2020-05-19T03:39:41.990Z,"8km E of Pahala, Hawaii",earthquake,0.63,0.71,0.13,19,automatic,hv,hv
+2020-05-19T03:33:23.970Z,38.125,-118.0827,11.4,1.4,ml,14,124.25,0.188,0.16,nn,nn00728357,2020-05-19T03:36:30.421Z,"64km SE of Hawthorne, Nevada",earthquake,,12.4,,,automatic,nn,nn
+2020-05-19T03:30:02.180Z,61.2663,-150.553,34.1,1.4,ml,,,,0.57,ak,ak0206fl7bln,2020-05-19T03:35:07.474Z,"35km W of Anchorage, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2020-05-19T03:28:53.447Z,38.1555,-118.0147,1.4,1.4,ml,8,138.82,0.046,0.1361,nn,nn00728356,2020-05-19T03:34:49.288Z,"67km SE of Hawthorne, Nevada",earthquake,,2,0.23,4,reviewed,nn,nn
+2020-05-19T03:24:29.340Z,36.5473328,-121.1226654,8.38,1.58,md,12,129,0.05606,0.1,nc,nc73389766,2020-05-19T03:56:04.138Z,"2km NE of Pinnacles, CA",earthquake,0.51,1.33,0.32,8,automatic,nc,nc
+2020-05-19T03:21:00.130Z,38.8388329,-122.7808304,1.42,0.24,md,11,79,0.005113,0.02,nc,nc73389761,2020-05-19T03:46:03.934Z,"5km WNW of Cobb, CA",earthquake,0.36,0.34,,1,automatic,nc,nc
+2020-05-19T03:17:59.490Z,38.143,-117.9712,5.7,1.4,ml,12,109.08,0.042,0.06,nn,nn00728353,2020-05-19T03:31:10.199Z,"65km W of Tonopah, Nevada",earthquake,,0.7,,,automatic,nn,nn
+2020-05-19T03:17:14.460Z,33.7693333,-116.1076667,1.86,1.06,ml,28,133,0.0987,0.16,ci,ci39206639,2020-05-19T03:33:08.626Z,"11km ENE of Indio, CA",earthquake,0.19,0.37,0.114,27,reviewed,ci,ci
+2020-05-19T03:17:13.112Z,37.6374,141.3135,44.37,5.1,mww,,133,2.712,0.64,us,us70009kc6,2020-05-19T10:43:00.873Z,"32km ENE of Namie, Japan",earthquake,8.2,3,0.098,10,reviewed,us,us
+2020-05-19T03:14:11.250Z,19.1976662,-155.385498,32.96,2.15,md,42,161,0.04122,0.13,hv,hv71518667,2020-05-19T03:17:18.830Z,"9km E of Pahala, Hawaii",earthquake,0.6,0.84,0.21,17,automatic,hv,hv
+2020-05-19T03:13:51.040Z,38.1388,-117.9773,5.8,2,ml,15,101.64,0.02,0.13,nn,nn00728351,2020-05-19T03:19:30.843Z,"66km W of Tonopah, Nevada",earthquake,,0.4,,,automatic,nn,nn
+2020-05-19T03:11:18.210Z,38.8263321,-122.8089981,1.51,1.31,md,25,37,0.003051,0.02,nc,nc73389751,2020-05-19T03:25:02.813Z,"7km NW of The Geysers, CA",earthquake,0.16,0.33,0.22,6,automatic,nc,nc
+2020-05-19T03:05:40.010Z,36.8562,-116.2048,6.3,0.9,ml,14,69.03,0.052,0.14,nn,nn00728349,2020-05-19T03:14:51.602Z,"49km E of Beatty, Nevada",earthquake,,0.6,,,automatic,nn,nn
+2020-05-19T02:55:07.475Z,38.1621,-117.9316,7,2.8,ml,25,48.12,0.032,0.2363,nn,nn00728346,2020-05-19T10:57:46.754Z,"62km WNW of Tonopah, Nevada",earthquake,,0.9,0.55,12,reviewed,nn,nn
+2020-05-19T02:53:33.040Z,33.6823333,-117.9551667,17.41,1.17,ml,29,142,0.01033,0.25,ci,ci39206623,2020-05-19T03:21:38.546Z,"3km S of Fountain Valley, CA",earthquake,0.45,0.61,0.111,16,reviewed,ci,ci
+2020-05-19T02:51:59.940Z,38.1338,-118.0702,0.1,2.1,ml,14,128.21,0.2,0.23,nn,nn00728344,2020-05-19T02:56:10.568Z,"65km SE of Hawthorne, Nevada",earthquake,,12.1,,,automatic,nn,nn
+2020-05-19T02:50:27.010Z,38.2348,-117.781,7,1.8,ml,11,87.88,0.225,0.09,nn,nn00728343,2020-05-19T02:54:50.421Z,"51km WNW of Tonopah, Nevada",earthquake,,2.1,,,automatic,nn,nn
+2020-05-19T02:49:04.240Z,37.642334,-119.418335,2.27,2.23,md,13,78,0.3062,0.06,nc,nc73389741,2020-05-19T05:44:02.663Z,"18km SE of Yosemite Valley, CA",earthquake,0.3,8.61,0.3,9,automatic,nc,nc
+2020-05-19T02:48:48.403Z,34.0341,25.495,10,4.2,mb,,127,1.346,0.91,us,us70009kbm,2020-05-19T03:11:54.040Z,"110km SSW of Ierapetra, Greece",earthquake,6.4,1.9,0.115,21,reviewed,us,us
+2020-05-19T02:44:48.910Z,38.1827,-117.7507,11.3,2.5,ml,25,50.38,0.189,0.14,nn,nn00728339,2020-05-19T02:50:30.921Z,"47km WNW of Tonopah, Nevada",earthquake,,1.9,,,automatic,nn,nn
+2020-05-19T02:44:18.024Z,34.2114,25.6027,10,4.2,mb,,175,1.223,0.77,us,us70009kbi,2020-05-19T02:57:01.040Z,"89km S of Ierapetra, Greece",earthquake,5.4,2,0.128,17,reviewed,us,us
+2020-05-19T02:41:15.510Z,38.189,-117.8637,3.1,2.2,ml,21,49.37,0.088,0.24,nn,nn00728336,2020-05-19T02:44:31.359Z,"57km WNW of Tonopah, Nevada",earthquake,,3.6,,,automatic,nn,nn
+2020-05-19T02:37:41.388Z,60.4447,-152.3588,93.2,1.8,ml,,,,0.42,ak,ak0206fknh8v,2020-05-19T02:43:06.043Z,"21km ESE of Redoubt Volcano, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2020-05-19T02:32:57.210Z,38.1218,-118.0275,10,2,ml,10,129.8,0.034,0.06,nn,nn00728335,2020-05-19T02:42:10.008Z,"68km SE of Hawthorne, Nevada",earthquake,,0.8,,,automatic,nn,nn
+2020-05-19T02:24:15.240Z,38.187,-117.9025,4.3,2.3,ml,14,60.94,0.067,0.08,nn,nn00728333,2020-05-19T02:34:30.543Z,"60km WNW of Tonopah, Nevada",earthquake,,0.9,,,automatic,nn,nn
+2020-05-19T02:20:54.040Z,38.1755,-117.8627,4.8,1.9,ml,17,110.2,0.077,0.13,nn,nn00728329,2020-05-19T02:24:10.358Z,"56km WNW of Tonopah, Nevada",earthquake,,1.3,,,automatic,nn,nn
+2020-05-19T02:13:33.249Z,38.1567,-117.9561,6.7,3.4,ml,32,51.73,0.018,0.2811,nn,nn00728324,2020-05-19T03:37:41.398Z,"65km W of Tonopah, Nevada",earthquake,,0.9,0.36,13,reviewed,nn,nn
+2020-05-19T02:10:23.200Z,38.1818,-117.8997,4.3,2.2,ml,19,61.62,0.06,0.09,nn,nn00728321,2020-05-19T02:14:30.685Z,"60km WNW of Tonopah, Nevada",earthquake,,0.7,,,automatic,nn,nn
+2020-05-19T02:09:28.010Z,38.1173,-118.0417,1.1,1.6,ml,8,118.21,0.092,0.35,nn,nn00728320,2020-05-19T02:13:10.067Z,"68km SE of Hawthorne, Nevada",earthquake,,17.3,,,automatic,nn,nn
+2020-05-19T02:03:24.020Z,38.1962,-117.8998,3.4,2.3,ml,12,133.02,0.067,0.05,nn,nn00728317,2020-05-19T02:08:10.652Z,"60km WNW of Tonopah, Nevada",earthquake,,7.3,,,automatic,nn,nn
+2020-05-19T01:55:32.010Z,38.2365,-117.7835,0.1,1.6,ml,10,163.22,0.161,0.19,nn,nn00728313,2020-05-19T01:58:57.825Z,"52km WNW of Tonopah, Nevada",earthquake,,12.3,,,automatic,nn,nn
+2020-05-19T01:54:29.110Z,35.9535,-117.3398333,2.64,1.07,ml,13,205,0.1597,0.15,ci,ci39206599,2020-05-19T01:58:04.466Z,"21km N of Trona, CA",earthquake,0.6,1.31,0.126,12,automatic,ci,ci
+2020-05-19T01:52:52.750Z,38.143,-118.0452,2,1.8,ml,8,179.91,0.057,0.16,nn,nn00728312,2020-05-19T01:57:17.774Z,"66km SE of Hawthorne, Nevada",earthquake,,5.4,,,automatic,nn,nn
+2020-05-19T01:40:21.574Z,38.1609,-117.9308,7.4,2.1,ml,18,90.68,0.031,0.2297,nn,nn00728309,2020-05-19T03:46:26.425Z,"62km W of Tonopah, Nevada",earthquake,,1.1,0.42,9,reviewed,nn,nn
+2020-05-19T01:35:53.455Z,60.8699,-152.548,133.1,2.2,ml,,,,0.49,ak,ak0206fk1my2,2020-05-19T01:39:32.688Z,"44km NNE of Redoubt Volcano, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2020-05-19T01:35:33.990Z,38.1615,-117.7777,0.1,1.7,ml,10,114.87,0.135,0.59,nn,nn00728306,2020-05-19T01:39:58.496Z,"49km WNW of Tonopah, Nevada",earthquake,,33.5,,,automatic,nn,nn
+2020-05-19T01:31:40.090Z,35.9581667,-117.3721667,0.63,1.37,ml,12,142,0.1375,0.15,ci,ci39206591,2020-05-19T01:35:27.124Z,"21km N of Searles Valley, CA",earthquake,0.35,0.49,0.119,16,automatic,ci,ci
+2020-05-19T01:29:28.840Z,38.1862,-117.8782,7.7,1.3,ml,12,130.71,0.038,0.08,nn,nn00728304,2020-05-19T01:32:57.739Z,"58km WNW of Tonopah, Nevada",earthquake,,1.7,,,automatic,nn,nn
+2020-05-19T01:27:04.320Z,38.1652,-117.7842,9.9,1.8,ml,11,112.72,0.141,0.17,nn,nn00728303,2020-05-19T01:31:05.404Z,"49km WNW of Tonopah, Nevada",earthquake,,14.5,,,automatic,nn,nn
+2020-05-19T01:26:21.450Z,38.2203,-117.7407,0.5,1.8,ml,11,171.98,0.379,0.16,nn,nn00728301,2020-05-19T01:30:57.833Z,"47km WNW of Tonopah, Nevada",earthquake,,11.6,,,automatic,nn,nn
+2020-05-19T01:14:06.333Z,38.1896,-117.7501,0.8,1.3,ml,11,161.41,0.172,0.1891,nn,nn00728298,2020-05-19T01:27:36.386Z,"47km WNW of Tonopah, Nevada",earthquake,,6.8,0.26,5,reviewed,nn,nn
+2020-05-19T01:10:00.840Z,38.1722,-117.7927,9.9,2.1,ml,13,51.58,0.133,0.15,nn,nn00728296,2020-05-19T01:15:38.138Z,"50km WNW of Tonopah, Nevada",earthquake,,2.5,,,automatic,nn,nn
+2020-05-19T01:06:36.490Z,38.1993,-117.767,0.2,1.7,ml,13,113.33,0.174,0.57,nn,nn00728294,2020-05-19T01:10:58.052Z,"49km WNW of Tonopah, Nevada",earthquake,,30.5,,,automatic,nn,nn
+2020-05-19T01:01:32.940Z,33.488,-116.7981667,6.21,0.09,ml,13,100,0.02437,0.07,ci,ci39206567,2020-05-19T01:41:27.065Z,"8km NE of Aguanga, CA",earthquake,0.17,0.36,0.148,5,reviewed,ci,ci
+2020-05-19T01:00:56.174Z,38.1405,-118.0018,9.1,2.1,ml,21,89.25,0.034,0.1628,nn,nn00728291,2020-05-19T09:04:04.223Z,"68km W of Tonopah, Nevada",earthquake,,1.1,0.38,10,reviewed,nn,nn
+2020-05-19T00:58:34.180Z,19.1476669,-155.4823303,30.38,1.75,md,26,206,0.0206,0.15,hv,hv71518497,2020-05-19T01:01:34.000Z,"6km S of Pahala, Hawaii",earthquake,0.82,1.7,0.18,4,automatic,hv,hv
+2020-05-19T00:56:13.355Z,60.147,-152.6894,84.2,1.3,ml,,,,0.62,ak,ak0206fjkm8s,2020-05-19T01:02:14.728Z,"37km S of Redoubt Volcano, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2020-05-19T00:55:31.540Z,38.1963,-117.7915,0.6,1.8,ml,15,117.33,0.136,0.43,nn,nn00728286,2020-05-19T01:01:58.114Z,"51km WNW of Tonopah, Nevada",earthquake,,23.4,,,automatic,nn,nn
+2020-05-19T00:49:00.260Z,35.6196667,-117.4605,8.85,1.4,ml,26,114,0.03312,0.17,ci,ci39206559,2020-05-19T01:16:32.598Z,"17km SSW of Searles Valley, CA",earthquake,0.26,0.48,0.106,19,reviewed,ci,ci
+2020-05-19T00:47:58.910Z,38.1695,-117.7632,0.2,1.4,ml,10,117.96,0.18,0.22,nn,nn00728285,2020-05-19T00:56:37.814Z,"48km WNW of Tonopah, Nevada",earthquake,,15.7,,,automatic,nn,nn
+2020-05-19T00:35:38.630Z,38.1925,-117.8537,7.4,1.8,ml,15,147.33,0.075,0.06,nn,nn00728283,2020-05-19T00:42:38.476Z,"56km WNW of Tonopah, Nevada",earthquake,,2.3,,,automatic,nn,nn
+2020-05-19T00:35:20.509Z,34.1941,25.629,10,4.1,mb,,104,1.249,1.07,us,us70009k9e,2020-05-19T00:58:50.040Z,"91km S of Ierapetra, Greece",earthquake,5.1,1.8,0.083,40,reviewed,us,us
+2020-05-19T00:28:15.780Z,36.8638,-116.1938,5.9,0.9,ml,10,137.74,0.052,0.15,nn,nn00728281,2020-05-19T00:37:18.066Z,"50km E of Beatty, Nevada",earthquake,,1.1,,,automatic,nn,nn
+2020-05-19T00:14:29.630Z,38.1818,-117.8558,6.6,1.8,ml,9,147.78,0.077,0.15,nn,nn00728280,2020-05-19T00:28:17.557Z,"56km WNW of Tonopah, Nevada",earthquake,,1,,,automatic,nn,nn
+2020-05-19T00:14:17.790Z,33.0133333,-116.026,8.81,1.26,ml,34,50,0.1349,0.22,ci,ci39206551,2020-05-19T00:57:25.479Z,"18km SE of Ocotillo Wells, CA",earthquake,0.33,1.21,0.14,22,reviewed,ci,ci
+2020-05-19T00:12:43.396Z,38.1759,-117.8185,1.8,2.1,ml,11,153.62,0.117,0.2641,nn,nn00728279,2020-05-19T00:15:55.937Z,"52km WNW of Tonopah, Nevada",earthquake,,3.5,0.5,6,reviewed,nn,nn
+2020-05-19T00:11:49.580Z,36.1341667,-117.8665,4.67,1.05,ml,16,142,0.01905,0.09,ci,ci39206543,2020-05-19T00:48:19.759Z,"12km NE of Coso Junction, CA",earthquake,0.2,0.27,0.237,10,reviewed,ci,ci
+2020-05-19T00:09:39.034Z,38.1965,-117.7213,8.3,2.6,ml,23,50.79,0.12,0.1852,nn,nn00728277,2020-05-19T01:16:34.427Z,"48km WNW of Tonopah, Nevada",earthquake,,1.5,0.35,11,reviewed,nn,nn
+2020-05-19T00:06:23.990Z,38.172,-117.7958,11.2,1.8,ml,11,96.27,0.137,0.04,nn,nn00728276,2020-05-19T00:10:37.536Z,"50km WNW of Tonopah, Nevada",earthquake,,1.4,,,automatic,nn,nn
+2020-05-19T00:06:21.320Z,17.9465,-66.8853,13,2.5,md,20,195,0.0292,0.16,pr,pr2020140002,2020-05-19T12:05:23.319Z,"3km SE of Guanica, Puerto Rico",earthquake,0.64,0.32,0.2,12,reviewed,pr,pr
+2020-05-19T00:03:41.426Z,38.2045,-117.7647,7,1.4,ml,16,120.65,0.167,0.2035,nn,nn00728274,2020-05-19T01:04:14.287Z,"49km WNW of Tonopah, Nevada",earthquake,,3,0.15,7,reviewed,nn,nn
+2020-05-19T00:02:41.721Z,34.1771,25.568,10,4.6,mb,,64,1.241,0.8,us,us70009k8l,2020-05-19T00:28:22.040Z,"93km S of Ierapetra, Greece",earthquake,7.4,1.9,0.047,132,reviewed,us,us
+2020-05-18T23:59:07.450Z,38.2198,-117.9335,8.9,2,ml,9,112.25,0.571,0.12,nn,nn00728273,2020-05-19T00:05:18.833Z,"63km WNW of Tonopah, Nevada",earthquake,,1.4,,,automatic,nn,nn
+2020-05-18T23:55:38.930Z,38.2098,-117.7928,0.2,1.7,ml,9,119.26,0.212,0.2,nn,nn00728272,2020-05-19T00:00:50.892Z,"51km WNW of Tonopah, Nevada",earthquake,,14.2,,,automatic,nn,nn
+2020-05-18T23:54:49.237Z,38.1207,-118.0211,16,1.1,ml,8,153.6,0.052,0.1569,nn,nn00728271,2020-05-19T00:00:36.153Z,"69km SE of Hawthorne, Nevada",earthquake,,1.9,0.14,3,reviewed,nn,nn
+2020-05-18T23:49:49.030Z,19.2346667,-155.4003333,31.76,3.04,md,60,139,0.003889,0.12,hv,hv71518407,2020-05-19T09:18:53.664Z,"9km NE of Pahala, Hawaii",earthquake,0.5,0.57,0.112,26,reviewed,hv,hv
+2020-05-18T23:43:28.380Z,38.2152,-117.7942,9.6,1.6,ml,11,118.87,0.144,0.09,nn,nn00728268,2020-05-18T23:46:38.592Z,"52km WNW of Tonopah, Nevada",earthquake,,3.3,,,automatic,nn,nn
+2020-05-18T23:40:51.091Z,38.1938,-117.7705,9.3,3,ml,20,49.14,0.127,0.1432,nn,nn00728264,2020-05-19T02:11:04.570Z,"49km WNW of Tonopah, Nevada",earthquake,,1.5,0.51,4,reviewed,nn,nn
+2020-05-18T23:40:48.600Z,19.2076664,-155.3984985,31.81,2.26,ml,52,157,0.07948,0.12,hv,hv71518392,2020-05-19T03:04:54.040Z,"7km ENE of Pahala, Hawaii",earthquake,0.53,0.75,2.69,11,automatic,hv,hv
+2020-05-18T23:39:35.585Z,34.0964,25.57,10,4.3,mb,,95,1.314,0.85,us,us70009k81,2020-05-19T00:02:50.040Z,"102km S of Ierapetra, Greece",earthquake,2.8,1.9,0.072,55,reviewed,us,us
+2020-05-18T23:38:57.460Z,38.8176651,-122.8186646,1.92,1.99,md,38,47,0.008819,0.06,nc,nc73389626,2020-05-19T02:58:02.633Z,"7km NW of The Geysers, CA",earthquake,0.17,0.31,0.2,12,automatic,nc,nc
+2020-05-18T23:37:30.338Z,38.1699,-118.0116,0,1.7,ml,13,131.09,0.051,0.336,nn,nn00728262,2020-05-18T23:41:55.954Z,"66km SE of Hawthorne, Nevada",earthquake,,0.4,0.3,7,reviewed,nn,nn
+2020-05-18T23:32:03.710Z,38.2238,-117.7623,2.1,2.2,ml,12,98.21,0.156,0.34,nn,nn00728260,2020-05-18T23:38:38.959Z,"49km WNW of Tonopah, Nevada",earthquake,,5.1,,,automatic,nn,nn
+2020-05-18T23:29:52.532Z,60.2138,-151.0205,62.4,1.8,ml,,,,0.71,ak,ak0206e9kjd3,2020-05-18T23:37:25.292Z,"23km SE of Cohoe, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2020-05-18T23:28:50.610Z,38.2082,-117.7847,0.1,1.8,ml,11,100.67,0.185,0.46,nn,nn00728257,2020-05-18T23:32:58.290Z,"51km WNW of Tonopah, Nevada",earthquake,,36,,,automatic,nn,nn
+2020-05-18T23:23:34.623Z,38.1551,-117.8646,5.6,3.4,ml,21,46.91,0.077,0.1708,nn,nn00728253,2020-05-19T02:13:56.307Z,"56km W of Tonopah, Nevada",earthquake,,1.4,0.37,5,reviewed,nn,nn
+2020-05-18T23:22:42.270Z,36.4263344,-120.9950027,0.9,2.64,md,28,103,0.01951,0.09,nc,nc73389601,2020-05-19T02:51:51.905Z,"18km SE of Pinnacles, CA",earthquake,0.28,1.17,0.18,30,automatic,nc,nc
+2020-05-18T23:22:35.293Z,34.2184,25.5175,10,5.8,mww,,17,1.185,0.6,us,us70009k7k,2020-05-19T04:02:20.434Z,"89km S of Gra Liyia, Greece",earthquake,4.3,1.7,0.055,32,reviewed,us,us
+2020-05-18T23:18:32.630Z,38.2103,-117.7848,0,2,ml,15,119.16,0.148,0.63,nn,nn00728248,2020-05-18T23:24:38.403Z,"51km WNW of Tonopah, Nevada",earthquake,,31.8,,,automatic,nn,nn
+2020-05-18T23:17:32.148Z,38.1373,-118.0696,1.5,1.8,ml,8,149.42,0.087,0.3167,nn,nn00728249,2020-05-18T23:24:44.504Z,"64km SE of Hawthorne, Nevada",earthquake,,3,0.32,6,reviewed,nn,nn
+2020-05-18T23:15:22.830Z,35.8298333,-117.6591667,5.5,1.63,ml,28,40,0.05204,0.14,ci,ci39206463,2020-05-19T01:07:40.460Z,"23km N of Ridgecrest, CA",earthquake,0.16,0.5,0.182,23,reviewed,ci,ci
+2020-05-18T23:11:57.800Z,36.1293333,-117.8666667,4.34,1.27,ml,14,141,0.01513,0.06,ci,ci39206455,2020-05-19T01:49:15.649Z,"12km NE of Coso Junction, CA",earthquake,0.17,0.21,0.246,11,reviewed,ci,ci
+2020-05-18T23:10:41.590Z,38.233,-117.7933,6.3,1.1,ml,9,162.86,0.231,0.09,nn,nn00728246,2020-05-18T23:19:37.722Z,"52km WNW of Tonopah, Nevada",earthquake,,11.3,,,automatic,nn,nn
+2020-05-18T23:04:14.090Z,33.286,-116.2576667,4.7,0.9,ml,17,79,0.0877,0.19,ci,ci39206431,2020-05-18T23:07:58.427Z,"11km ENE of Borrego Springs, CA",earthquake,0.38,0.87,0.152,17,automatic,ci,ci
+2020-05-18T23:01:55.297Z,38.1893,-117.8612,6.9,2.2,ml,15,63.31,0.092,0.2102,nn,nn00728243,2020-05-19T02:11:01.267Z,"56km WNW of Tonopah, Nevada",earthquake,,1.7,0.4,10,reviewed,nn,nn
+2020-05-18T22:58:47.380Z,38.1305,-118.0323,20.1,2.4,ml,15,94.16,0.417,0.29,nn,nn00728241,2020-05-18T23:01:59.934Z,"67km SE of Hawthorne, Nevada",earthquake,,1.7,,,automatic,nn,nn
+2020-05-18T22:54:43.980Z,38.2137,-117.7822,0.9,2.6,ml,16,50.58,0.146,0.13,nn,nn00728237,2020-05-18T23:40:53.040Z,"50km WNW of Tonopah, Nevada",earthquake,,9.9,,,automatic,nn,nn
+2020-05-18T22:51:14.950Z,38.1738,-117.8397,8.2,2.7,ml,24,51.12,0.096,0.12,nn,nn00728234,2020-05-18T23:01:24.040Z,"54km WNW of Tonopah, Nevada",earthquake,,1.9,,,automatic,nn,nn
+2020-05-18T22:42:37.100Z,38.2387,-117.7983,0,2.3,ml,14,70.37,0.157,0.33,nn,nn00728232,2020-05-18T22:47:19.719Z,"53km WNW of Tonopah, Nevada",earthquake,,18.2,,,automatic,nn,nn
+2020-05-18T22:38:21.883Z,38.2175,-117.7997,10,2.9,ml,18,50.67,0.148,0.1431,nn,nn00728229,2020-05-19T02:11:00.088Z,"51km WNW of Tonopah, Nevada",earthquake,,1.3,0.52,4,reviewed,nn,nn
+2020-05-18T22:29:57.930Z,35.8258333,-117.6626667,3.94,1.7,ml,23,50,0.0539,0.2,ci,ci39206415,2020-05-18T22:40:47.470Z,"23km N of Ridgecrest, CA",earthquake,0.29,0.7,0.211,26,automatic,ci,ci
+2020-05-18T22:26:48.057Z,38.1754,-117.9815,0,1.6,ml,8,159.9,0.04,0.2607,nn,nn00728228,2020-05-18T22:30:35.832Z,"66km W of Tonopah, Nevada",earthquake,,0.5,0.42,3,reviewed,nn,nn
+2020-05-18T22:18:40.510Z,38.3588,-118.1403,9.8,1.2,ml,8,133.93,0.065,0.2,nn,nn00728227,2020-05-18T22:28:17.389Z,"46km ESE of Hawthorne, Nevada",earthquake,,2.5,,,automatic,nn,nn
+2020-05-18T22:15:27.030Z,38.1755,-117.957,3,1.8,ml,14,108.25,0.06,0.11,nn,nn00728225,2020-05-18T22:20:58.327Z,"64km W of Tonopah, Nevada",earthquake,,0.9,,,automatic,nn,nn
+2020-05-18T22:13:45.385Z,36.86693573,-97.45147705,2.812938452,1.81,ml,19,131.2982025,0.1471909881,0.2289840965,ok,ok2020jtvk,2020-05-18T22:17:22.807Z,"16km WNW of Blackwell, Oklahoma",earthquake,3.154367086,2.294799548,,15,automatic,ok,ok
+2020-05-18T22:13:16.980Z,38.0968,-118.176,13.2,2.5,ml,11,146.73,0.309,0.15,nn,nn00728223,2020-05-18T22:36:49.040Z,"65km SE of Hawthorne, Nevada",earthquake,,1.1,,,automatic,nn,nn
+2020-05-18T22:12:17.000Z,38.0088,-118.2253,13.7,2.2,ml,12,128.05,0.324,0.15,nn,nn00728221,2020-05-18T22:16:39.675Z,"67km SSE of Hawthorne, Nevada",earthquake,,1.3,,,automatic,nn,nn
+2020-05-18T22:09:55.695Z,38.161,-118.0131,0,1.8,ml,13,121.58,0.047,0.2132,nn,nn00728219,2020-05-18T22:13:35.827Z,"66km SE of Hawthorne, Nevada",earthquake,,0.4,0.24,9,reviewed,nn,nn
+2020-05-18T22:08:29.700Z,35.6438333,-117.4795,9.39,0.99,ml,9,159,0.05892,0.14,ci,ci39206399,2020-05-18T22:12:11.697Z,"15km SSW of Searles Valley, CA",earthquake,0.87,0.8,0.293,9,automatic,ci,ci
+2020-05-18T22:05:56.630Z,38.1478,-117.9302,9.9,1.9,ml,12,105.46,0.021,0.1,nn,nn00728216,2020-05-18T22:11:18.719Z,"62km W of Tonopah, Nevada",earthquake,,0.8,,,automatic,nn,nn
+2020-05-18T21:56:39.210Z,38.1963,-117.846,0.6,2,ml,9,189.23,0.108,0.12,nn,nn00728215,2020-05-18T22:03:19.853Z,"55km WNW of Tonopah, Nevada",earthquake,,11,,,automatic,nn,nn
+2020-05-18T21:55:55.450Z,19.2136669,-155.4476624,36.51,2.16,md,44,118,0.053,0.11,hv,hv71518287,2020-05-18T21:59:07.130Z,"3km ENE of Pahala, Hawaii",earthquake,0.43,0.63,0.15,20,automatic,hv,hv
+2020-05-18T21:54:56.240Z,19.1998329,-155.440506,36.32,1.9,md,40,150,0.05528,0.11,hv,hv71518282,2020-05-18T21:58:15.180Z,"4km E of Pahala, Hawaii",earthquake,0.68,0.92,0.15,8,automatic,hv,hv
+2020-05-18T21:52:21.430Z,38.2255,-117.8128,6.9,2.6,ml,10,160.73,0.342,0.17,nn,nn00728214,2020-05-18T22:11:09.040Z,"56km WNW of Tonopah, Nevada",earthquake,,16.4,,,automatic,nn,nn
+2020-05-18T21:51:01.467Z,38.1532,-117.9921,4.9,3.3,ml,24,47.59,0.029,0.1304,nn,nn00728210,2020-05-19T02:13:25.733Z,"67km SE of Hawthorne, Nevada",earthquake,,0.8,0.42,8,reviewed,nn,nn
+2020-05-18T21:44:30.800Z,38.8341675,-122.8221664,2.41,1.01,md,13,206,0.01431,0.08,nc,nc73389541,2020-05-18T21:59:03.637Z,"8km NW of The Geysers, CA",earthquake,0.59,0.93,0.07,3,automatic,nc,nc
+2020-05-18T21:41:52.550Z,38.1912,-117.792,0.1,1.5,ml,12,152.61,0.134,0.35,nn,nn00728207,2020-05-18T21:46:37.362Z,"51km WNW of Tonopah, Nevada",earthquake,,18.9,,,automatic,nn,nn
+2020-05-18T21:34:36.219Z,35.95666667,-97.22866667,7.63,2.03,ml,99,28,0,0.23,ok,ok2020jtud,2020-05-18T21:57:17.523Z,"2km ENE of Langston, Oklahoma",earthquake,,0.5,0.18,18,reviewed,ok,ok
+2020-05-18T21:30:42.460Z,34.0001678,-118.7095032,4.32,2,ml,45,80,0.07102,0.31,ci,ci39206351,2020-05-18T21:42:50.373Z,"4km SSW of Malibu Beach, CA",earthquake,0.43,1.17,0.249,27,automatic,ci,ci
+2020-05-18T21:28:14.090Z,38.1672,-117.8523,4.6,2.7,ml,20,93.49,0.089,0.23,nn,nn00728203,2020-05-19T05:30:55.890Z,"56km WNW of Tonopah, Nevada",earthquake,,1.4,,,automatic,nn,nn
+2020-05-18T21:26:55.670Z,38.1607,-117.853,5,1.9,ml,14,109.73,0.084,0.17,nn,nn00728202,2020-05-18T21:30:18.660Z,"55km W of Tonopah, Nevada",earthquake,,1.7,,,automatic,nn,nn
+2020-05-18T21:21:15.020Z,38.1225,-118.564,23.1,2.2,ml,10,140.66,0.188,0.1,nn,nn00728201,2020-05-18T21:26:59.346Z,"44km S of Hawthorne, Nevada",earthquake,,0.5,,,automatic,nn,nn
+2020-05-18T21:18:22.860Z,38.1433,-118.0388,3.3,1.9,ml,14,126.88,0.057,0.06,nn,nn00728199,2020-05-18T21:22:37.954Z,"66km SE of Hawthorne, Nevada",earthquake,,1.4,,,automatic,nn,nn
+2020-05-18T21:16:49.610Z,38.1563,-118.0217,5.2,2.2,ml,18,104.38,0.059,0.09,nn,nn00728196,2020-05-18T21:19:59.628Z,"66km SE of Hawthorne, Nevada",earthquake,,0.7,,,automatic,nn,nn
+2020-05-18T21:10:22.330Z,33.4293333,-116.6175,7.98,0.5,ml,9,106,0.06644,0.05,ci,ci39206327,2020-05-18T21:13:58.638Z,"15km SSE of Anza, CA",earthquake,0.24,0.35,0.128,11,automatic,ci,ci
+2020-05-18T21:10:01.890Z,33.5993333,-116.8046667,2.94,0.39,ml,17,70,0.03432,0.23,ci,ci39206319,2020-05-18T21:13:43.635Z,"13km WNW of Anza, CA",earthquake,0.59,1,0.159,11,automatic,ci,ci
+2020-05-18T21:09:04.010Z,35.7086667,-117.4451667,3.34,0.23,ml,5,182,0.1227,0.02,ci,ci39206335,2020-05-19T01:54:53.000Z,"8km SSW of Searles Valley, CA",earthquake,0.39,0.73,0.153,2,reviewed,ci,ci
+2020-05-18T21:08:39.260Z,38.2648,-118.7455,0.1,1.6,ml,12,168.12,0.178,0.19,nn,nn00728194,2020-05-19T05:11:05.755Z,"30km SSW of Hawthorne, Nevada",earthquake,,11.7,,,automatic,nn,nn
+2020-05-18T21:03:46.970Z,33.5921669,-116.8116684,8.08,0.63,ml,14,86,0.03973,0.2,ci,ci39206311,2020-05-18T21:08:11.601Z,"13km WNW of Anza, CA",earthquake,0.76,1.12,0.229,6,automatic,ci,ci
+2020-05-18T21:02:32.690Z,33.583,-116.8151667,3.26,2.51,ml,86,21,0.04394,0.22,ci,ci39206303,2020-05-19T04:37:53.679Z,"14km WNW of Anza, CA",earthquake,0.19,0.57,0.147,25,automatic,ci,ci
+2020-05-18T21:02:06.792Z,61.5743,-141.044,1.4,1.3,ml,,,,0.66,ak,ak0206e87sbn,2020-05-18T21:14:24.849Z,"180km E of Chitina, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2020-05-18T20:57:46.030Z,19.2171669,-155.4008331,30.72,1.88,md,38,155,0.02047,0.11,hv,hv71518202,2020-05-18T21:00:45.770Z,"8km E of Pahala, Hawaii",earthquake,0.62,0.72,0.25,8,automatic,hv,hv
+2020-05-18T20:51:10.690Z,38.1802,-117.7902,5.7,1.8,ml,13,115.43,0.137,0.05,nn,nn00728191,2020-05-18T21:10:17.374Z,"50km WNW of Tonopah, Nevada",earthquake,,0.9,,,automatic,nn,nn
+2020-05-18T20:47:38.680Z,38.1568,-117.853,2.8,2.1,ml,10,108.51,0.511,0.08,nn,nn00728190,2020-05-18T20:52:18.428Z,"55km W of Tonopah, Nevada",earthquake,,10.7,,,automatic,nn,nn
+2020-05-18T20:44:16.620Z,38.1282,-118.0628,1.5,2,ml,14,116.41,0.308,0.06,nn,nn00728188,2020-05-18T20:48:58.436Z,"65km SE of Hawthorne, Nevada",earthquake,,7.6,,,automatic,nn,nn
+2020-05-18T20:37:38.322Z,58.3977,-154.8364,3.8,0.7,ml,,,,0.17,ak,ak0206e7twk8,2020-05-18T23:46:08.326Z,"108km NNW of Larsen Bay, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2020-05-18T20:35:57.762Z,27.5205,103.3287,10,4.5,mb,,148,6.062,0.42,us,us70009k48,2020-05-18T21:44:20.040Z,"21km SSE of Tiandiba, China",earthquake,11.2,2,0.099,30,reviewed,us,us
+2020-05-18T20:34:52.990Z,38.1772,-117.8363,3.9,1.8,ml,13,146.76,0.064,0.07,nn,nn00728186,2020-05-18T20:45:45.992Z,"54km WNW of Tonopah, Nevada",earthquake,,0.8,,,automatic,nn,nn
+2020-05-18T20:33:45.960Z,38.1933,-117.9562,3.9,1.7,ml,14,107.86,0.052,0.09,nn,nn00728185,2020-05-18T20:45:37.620Z,"65km WNW of Tonopah, Nevada",earthquake,,0.7,,,automatic,nn,nn
+2020-05-18T20:30:59.360Z,38.112,-118.083,3,2,ml,9,131.1,0.096,0.08,nn,nn00728184,2020-05-18T20:35:25.265Z,"65km SE of Hawthorne, Nevada",earthquake,,1.8,,,automatic,nn,nn
+2020-05-18T20:30:08.190Z,38.1718,-117.889,11.4,1.9,ml,11,109.81,0.067,0.11,nn,nn00728183,2020-05-18T20:35:18.151Z,"58km WNW of Tonopah, Nevada",earthquake,,0.8,,,automatic,nn,nn
+2020-05-18T20:25:27.220Z,33.8496667,-117.4953333,0.54,1.44,ml,34,73,0.05281,0.21,ci,ci39206287,2020-05-18T20:29:19.649Z,"4km SE of Home Gardens, CA",quarry blast,0.27,31.61,0.203,34,automatic,ci,ci
+2020-05-18T20:23:47.200Z,35.6033333,-117.4815,9.73,2.27,ml,28,65,0.02301,0.22,ci,ci39206279,2020-05-18T20:34:49.130Z,"18km E of Ridgecrest, CA",earthquake,0.34,0.64,0.141,26,automatic,ci,ci
+2020-05-18T20:21:36.240Z,38.1535,-117.949,2.2,2.5,ml,16,103.18,0.016,0.13,nn,nn00728179,2020-05-18T23:03:27.040Z,"63km W of Tonopah, Nevada",earthquake,,0.8,,,automatic,nn,nn
+2020-05-18T20:18:05.250Z,33.9438324,-116.8256683,10.99,1.08,ml,26,88,0.1125,0.13,ci,ci39206263,2020-05-18T20:21:42.606Z,"5km NW of Cabazon, CA",earthquake,0.28,1.13,0.247,10,automatic,ci,ci
+2020-05-18T20:13:08.710Z,19.225666,-155.4170074,31.73,2.26,ml,48,139,0.02187,0.13,hv,hv71518157,2020-05-18T20:18:41.690Z,"6km ENE of Pahala, Hawaii",earthquake,0.52,0.83,2.84,10,automatic,hv,hv
+2020-05-18T20:03:03.620Z,19.2296667,-155.4046667,32.34,3,ml,58,140,0.01033,0.12,hv,hv71518132,2020-05-18T23:27:52.180Z,"8km NE of Pahala, Hawaii",earthquake,0.41,0.51,0.17,34,reviewed,hv,hv
+2020-05-18T20:02:45.940Z,19.2325,-155.4046667,31.98,2.31,ml,54,138,0.008404,0.12,hv,hv71518127,2020-05-18T23:45:45.190Z,"8km ENE of Pahala, Hawaii",earthquake,0.43,0.61,0.204,30,reviewed,hv,hv
+2020-05-18T19:59:08.260Z,38.1518,-117.954,11,1.8,ml,9,146.63,0.426,0.21,nn,nn00728178,2020-05-18T20:11:17.060Z,"64km W of Tonopah, Nevada",earthquake,,2.4,,,automatic,nn,nn
+2020-05-18T19:55:46.660Z,38.18,-117.837,0.1,1.7,ml,13,145.09,0.096,0.22,nn,nn00728175,2020-05-18T20:00:39.286Z,"54km WNW of Tonopah, Nevada",earthquake,,14.1,,,automatic,nn,nn
+2020-05-18T19:49:41.010Z,38.0291672,-118.7986679,2.62,2.55,md,29,100,0.3207,0.07,nc,nc73389486,2020-05-18T23:23:02.187Z,"28km SE of Bodie, CA",earthquake,0.26,8.03,0.24,25,automatic,nc,nc
+2020-05-18T19:47:18.025Z,38.1795,-117.8876,7.7,3.4,ml,22,48.96,0.07,0.1627,nn,nn00728170,2020-05-19T02:12:56.405Z,"57km WNW of Tonopah, Nevada",earthquake,,1.1,0.37,6,reviewed,nn,nn
+2020-05-18T19:45:57.439Z,36.87283333,-97.45483333,7.93,1.63,ml,54,94,0.1412722776,0.23,ok,ok2020jtqo,2020-05-18T19:56:03.730Z,"17km WNW of Blackwell, Oklahoma",earthquake,,0.9,0.18,25,reviewed,ok,ok
+2020-05-18T19:40:34.230Z,19.2113342,-155.3931732,32.25,2.06,md,31,171,0.02635,0.13,hv,hv71518092,2020-05-18T19:43:45.370Z,"9km E of Pahala, Hawaii",earthquake,0.75,0.94,0.2,3,automatic,hv,hv
+2020-05-18T19:36:11.980Z,38.2273,-117.789,4.9,2.5,ml,16,97.45,0.143,0.12,nn,nn00728166,2020-05-18T19:48:38.567Z,"52km WNW of Tonopah, Nevada",earthquake,,1.3,,,automatic,nn,nn
+2020-05-18T19:34:38.420Z,38.1718,-117.8422,0.1,2,ml,11,111.22,0.08,0.12,nn,nn00728165,2020-05-18T19:37:59.161Z,"54km WNW of Tonopah, Nevada",earthquake,,12,,,automatic,nn,nn
+2020-05-18T19:29:09.773Z,38.1435,-117.8643,7.7,1.5,ml,8,304.86,0.075,0.1097,nn,nn00728163,2020-05-18T19:32:55.722Z,"56km W of Tonopah, Nevada",earthquake,,1.9,0.14,3,reviewed,nn,nn
+2020-05-18T19:28:30.830Z,39.4136667,-110.337,-0.93,1.45,md,6,165,0.01391,0.06,uu,uu60387992,2020-05-18T22:20:48.970Z,"16km SSE of East Carbon City, Utah",earthquake,1.51,0.43,0.353,5,reviewed,uu,uu
+2020-05-18T19:23:35.226Z,38.1613,-117.9244,7.1,3.1,ml,24,48.08,0.036,0.1461,nn,nn00728161,2020-05-19T02:10:55.539Z,"62km WNW of Tonopah, Nevada",earthquake,,0.7,0.41,7,reviewed,nn,nn
+2020-05-18T19:20:02.830Z,38.158,-117.8568,5.8,2.4,ml,22,110.9,0.087,0.11,nn,nn00728156,2020-05-18T19:24:39.322Z,"55km W of Tonopah, Nevada",earthquake,,0.6,,,automatic,nn,nn
+2020-05-18T19:14:05.220Z,19.2180004,-155.4188385,29.38,2.38,ml,43,138,0.02798,0.14,hv,hv71518062,2020-05-18T19:19:41.600Z,"6km ENE of Pahala, Hawaii",earthquake,0.52,0.96,0.17,4,automatic,hv,hv
+2020-05-18T19:13:49.968Z,38.1534,-117.868,6.8,3.4,ml,14,47.61,0.074,0.1453,nn,nn00728153,2020-05-19T02:12:30.189Z,"54km WNW of Tonopah, Nevada",earthquake,,1.2,0.43,6,reviewed,nn,nn
+2020-05-18T19:13:00.560Z,38.1582,-117.8553,4.5,2.5,ml,15,109.46,0.077,0.16,nn,nn00728152,2020-05-18T19:16:58.414Z,"55km W of Tonopah, Nevada",earthquake,,1.1,,,automatic,nn,nn
+2020-05-18T19:10:47.680Z,38.2133,-117.7883,2.2,2.1,ml,15,120.2,0.153,0.16,nn,nn00728151,2020-05-18T19:14:29.418Z,"51km WNW of Tonopah, Nevada",earthquake,,1.4,,,automatic,nn,nn
+2020-05-18T19:09:13.126Z,38.1441,-118.0154,10.2,1.4,ml,10,155.6,0.044,0.1279,nn,nn00728149,2020-05-18T19:14:15.792Z,"67km SE of Hawthorne, Nevada",earthquake,,0.5,0.28,5,reviewed,nn,nn
+2020-05-18T19:06:03.680Z,38.1217,-118.0892,7,2.1,ml,10,132.02,0.344,0.18,nn,nn00728145,2020-05-18T19:10:59.058Z,"64km SE of Hawthorne, Nevada",earthquake,,2.6,,,automatic,nn,nn
+2020-05-18T19:03:19.350Z,46.0108333,-112.4706667,-2,1.72,ml,10,105,0.06,0.11,mb,mb80424169,2020-05-18T22:37:34.000Z,"5km E of Butte, Montana",quarry blast,0.45,31.61,0.143,8,reviewed,mb,mb
+2020-05-18T19:00:19.300Z,36.1088333,-117.8786667,5.19,2.09,ml,25,56,0.02116,0.15,ci,ci39206191,2020-05-18T19:04:05.293Z,"10km NE of Coso Junction, CA",earthquake,0.29,0.56,0.228,27,automatic,ci,ci
+2020-05-18T18:58:42.880Z,38.0978,-118.1083,9.1,2.6,ml,16,124.72,0.325,0.13,nn,nn00728143,2020-05-19T00:10:04.040Z,"64km SE of Hawthorne, Nevada",earthquake,,1.3,,,automatic,nn,nn
+2020-05-18T18:55:20.316Z,38.2253,-117.8019,10,2.9,ml,12,50.08,0.146,0.1577,nn,nn00728139,2020-05-19T02:10:52.526Z,"52km WNW of Tonopah, Nevada",earthquake,,1.9,0.65,5,reviewed,nn,nn
+2020-05-18T18:53:05.930Z,38.1792,-117.839,1.6,2.4,ml,8,154.3,0.085,0.03,nn,nn00728138,2020-05-18T18:56:18.615Z,"54km WNW of Tonopah, Nevada",earthquake,,8.3,,,automatic,nn,nn
+2020-05-18T18:52:22.977Z,38.191,-117.7947,4.2,2.3,ml,18,96.77,0.14,0.3053,nn,nn00728135,2020-05-18T18:55:35.733Z,"51km WNW of Tonopah, Nevada",earthquake,,0.7,0.29,14,reviewed,nn,nn
+2020-05-18T18:49:31.930Z,38.1405,-118.018,0.9,2,ml,12,105.74,0.33,0.13,nn,nn00728132,2020-05-18T18:53:17.469Z,"68km SE of Hawthorne, Nevada",earthquake,,12.4,,,automatic,nn,nn
+2020-05-18T18:48:27.254Z,61.487,-149.7738,33.5,1.1,ml,,,,0.83,ak,ak0206e6pe05,2020-05-18T18:51:11.335Z,"9km WSW of Knik-Fairview, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2020-05-18T18:41:56.050Z,33.8866667,-116.6495,14.47,0.86,ml,26,49,0.1036,0.16,ci,ci39206167,2020-05-18T19:34:19.732Z,"10km W of Garnet, CA",earthquake,0.22,0.62,0.163,17,reviewed,ci,ci
+2020-05-18T18:36:30.741Z,-24.5165,-68.6533,101.72,4.9,mwr,,53,1.597,0.73,us,us70009jyg,2020-05-18T19:11:03.040Z,"182km SSW of San Pedro de Atacama, Chile",earthquake,6.6,5.5,,,reviewed,us,guc
+2020-05-18T18:35:47.836Z,38.2222,-117.7908,5.6,3,ml,18,50.87,0.157,0.139,nn,nn00728129,2020-05-19T02:10:50.631Z,"54km WNW of Tonopah, Nevada",earthquake,,3.4,0.36,4,reviewed,nn,nn
+2020-05-18T18:31:40.182Z,38.1201,-118.0841,0.6,2.4,ml,10,124.03,0.1,0.3246,nn,nn00728127,2020-05-18T18:36:55.744Z,"65km SE of Hawthorne, Nevada",earthquake,,5.4,0.24,5,reviewed,nn,nn
+2020-05-18T18:30:19.688Z,38.1423,-118.0471,6.2,3.4,ml,22,46.79,0.069,0.175,nn,nn00728122,2020-05-19T02:12:02.160Z,"64km SE of Hawthorne, Nevada",earthquake,,1.2,0.23,8,reviewed,nn,nn
+2020-05-18T18:28:38.020Z,36.1353333,-117.8658333,3.25,1.56,ml,15,142,0.01982,0.15,ci,ci39206143,2020-05-18T18:32:19.850Z,"12km NE of Coso Junction, CA",earthquake,0.41,0.36,0.215,21,automatic,ci,ci
+2020-05-18T18:18:12.710Z,40.7191667,-112.0191667,9.78,1.01,md,13,92,0.01489,0.1,uu,uu60387917,2020-05-18T21:15:55.180Z,"3km NNW of West Valley City, Utah",earthquake,0.35,0.88,0.101,7,reviewed,uu,uu
+2020-05-18T18:16:24.530Z,36.35416667,-97.3565,7.75,2.22,ml,73,35,0,0.24,ok,ok2020jtnp,2020-05-18T18:34:40.641Z,"9km NW of Perry, Oklahoma",earthquake,,0.7,0.21,34,reviewed,ok,ok
+2020-05-18T18:14:04.589Z,36.49433333,-96.8335,0,1,ml,17,146,0.04859046489,0.27,ok,ok2020jtnm,2020-05-18T19:25:53.947Z,"14km SW of Fairfax, Oklahoma",quarry blast,,0.6,0.24,6,reviewed,ok,ok
+2020-05-18T18:13:23.447Z,44.4085,-115.2052,10,2.9,ml,,83,0.884,0.48,us,us70009jxs,2020-05-19T10:18:58.519Z,"67km E of Cascade, Idaho",earthquake,4.7,2,0.051,50,reviewed,us,us
+2020-05-18T18:09:35.037Z,63.0613,-149.5942,81.9,2.7,ml,,,,0.63,ak,ak0206e6h1md,2020-05-18T21:49:57.040Z,"50km SW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2020-05-18T18:08:44.430Z,35.6501667,-117.44,2.28,1.27,ml,15,128,0.06605,0.15,ci,ci39206135,2020-05-18T18:12:28.044Z,"13km SSW of Searles Valley, CA",earthquake,0.39,0.65,0.145,21,automatic,ci,ci
+2020-05-18T18:05:02.520Z,35.7143333,-117.5645,4.85,1.97,ml,26,75,0.1047,0.16,ci,ci39206119,2020-05-18T18:08:51.678Z,"14km NE of Ridgecrest, CA",earthquake,0.25,0.71,0.082,26,automatic,ci,ci
+2020-05-18T18:01:51.300Z,38.2368,-117.7842,1.5,2.3,ml,14,125.35,0.163,0.27,nn,nn00728119,2020-05-18T18:05:59.271Z,"52km WNW of Tonopah, Nevada",earthquake,,20.2,,,automatic,nn,nn
+2020-05-18T17:59:49.580Z,44.2858333,-115.0595,5.71,1.97,ml,11,78,0.861,0.24,mb,mb80424044,2020-05-18T22:50:05.540Z,"70km WSW of Challis, Idaho",earthquake,0.54,1.4,0.117,8,reviewed,mb,mb
+2020-05-18T17:56:26.940Z,38.2178,-117.9113,0.8,2.1,ml,13,111.49,0.078,0.07,nn,nn00728117,2020-05-18T17:59:37.902Z,"62km WNW of Tonopah, Nevada",earthquake,,7.5,,,automatic,nn,nn
+2020-05-18T17:54:44.320Z,38.1507,-117.9473,12.5,1.8,ml,13,103.34,0.011,0.06,nn,nn00728114,2020-05-18T17:57:57.502Z,"63km W of Tonopah, Nevada",earthquake,,0.7,,,automatic,nn,nn
+2020-05-18T17:50:19.300Z,35.8715,-117.6643333,4.09,1.41,ml,15,97,0.07708,0.24,ci,ci39206103,2020-05-18T17:54:00.239Z,"23km ESE of Little Lake, CA",earthquake,0.45,1.23,0.166,18,automatic,ci,ci
+2020-05-18T17:50:03.512Z,57.9673,-155.8048,3.3,1.4,ml,,,,0.24,ak,ak0206e64c6p,2020-05-18T17:57:08.251Z,"94km SSE of King Salmon, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2020-05-18T17:48:13.173Z,38.121,-118.0705,6.1,2.6,ml,19,116.01,0.089,0.0924,nn,nn00728112,2020-05-19T02:10:46.790Z,"64km SE of Hawthorne, Nevada",earthquake,,1,0.5,5,reviewed,nn,nn
+2020-05-18T17:47:38.340Z,35.0505,-118.316,-0.99,1,ml,18,119,0.06334,0.14,ci,ci39206095,2020-05-18T18:08:26.148Z,"13km W of Mojave, CA",quarry blast,0.39,31.61,0.117,16,reviewed,ci,ci
+2020-05-18T17:44:31.950Z,38.1872,-117.8557,3.8,1.6,ml,11,147.35,0.074,0.07,nn,nn00728110,2020-05-18T17:49:36.770Z,"56km WNW of Tonopah, Nevada",earthquake,,0.7,,,automatic,nn,nn
+2020-05-18T17:41:57.866Z,38.1846,-117.7411,10.5,3,ml,21,49.98,0.111,0.1536,nn,nn00728105,2020-05-19T02:10:44.921Z,"46km WNW of Tonopah, Nevada",earthquake,,1.2,0.47,6,reviewed,nn,nn
+2020-05-18T17:40:53.159Z,38.164,-118.0809,0.7,1.3,ml,8,125.23,0.099,0.1003,nn,nn00728107,2020-05-18T17:45:25.925Z,"62km SE of Hawthorne, Nevada",earthquake,,17.6,0.12,2,reviewed,nn,nn
+2020-05-18T17:34:34.740Z,38.1517,-118.0158,6.1,1.5,ml,12,123.6,0.056,0.05,nn,nn00728104,2020-05-18T17:42:57.765Z,"67km SE of Hawthorne, Nevada",earthquake,,1.2,,,automatic,nn,nn
+2020-05-18T17:30:39.610Z,38.1363,-117.982,6,2.5,ml,16,96.18,0.02,0.11,nn,nn00728101,2020-05-18T21:06:07.040Z,"66km W of Tonopah, Nevada",earthquake,,0.3,,,automatic,nn,nn
+2020-05-18T17:30:00.690Z,38.833168,-122.7968369,2.19,0.33,md,13,80,0.007287,0.02,nc,nc73390710,2020-05-18T17:54:03.109Z,"6km W of Cobb, CA",earthquake,0.46,0.76,0.23,2,automatic,nc,nc
+2020-05-18T17:25:44.380Z,35.7736667,-117.5751667,7.72,0.97,ml,11,151,0.04574,0.15,ci,ci39206055,2020-05-18T17:29:19.189Z,"16km W of Searles Valley, CA",earthquake,0.45,0.7,0.171,11,automatic,ci,ci
+2020-05-18T17:18:38.030Z,38.7695007,-122.7133331,1.62,0.98,md,9,109,0.01106,0.02,nc,nc73390700,2020-05-18T17:39:05.016Z,"2km WSW of Anderson Springs, CA",earthquake,0.34,0.29,0.06,4,automatic,nc,nc
+2020-05-18T17:18:32.180Z,39.4085,-110.2985,-1.79,2.15,md,7,201,0.02583,0.06,uu,uu60387867,2020-05-18T22:16:09.340Z,"18km SSE of East Carbon City, Utah",earthquake,0.7,0.67,0.194,6,reviewed,uu,uu
+2020-05-18T17:14:02.620Z,39.4131667,-110.3183333,-0.93,1.42,md,5,194,0.01211,0.01,uu,uu60387862,2020-05-18T22:14:03.480Z,"17km SSE of East Carbon City, Utah",earthquake,1.37,0.37,0.344,4,reviewed,uu,uu
+2020-05-18T17:05:40.340Z,35.8796667,-117.7006667,8.33,1.49,ml,15,84,0.07939,0.08,ci,ci39206031,2020-05-18T17:09:27.229Z,"20km ESE of Little Lake, CA",earthquake,0.18,0.5,0.22,21,automatic,ci,ci
+2020-05-18T17:04:25.820Z,38.147,-117.971,8,1.8,ml,8,141.8,0.32,0.29,nn,nn00728100,2020-05-18T17:11:16.755Z,"65km W of Tonopah, Nevada",earthquake,,24.8,,,automatic,nn,nn
+2020-05-18T17:03:01.120Z,38.181,-117.9585,4.6,1.8,ml,11,132.13,0.058,0.02,nn,nn00728099,2020-05-18T17:06:38.063Z,"65km WNW of Tonopah, Nevada",earthquake,,5.4,,,automatic,nn,nn
+2020-05-18T17:02:30.100Z,33.2233333,-116.7355,11.6,0.99,ml,33,36,0.02322,0.21,ci,ci39206023,2020-05-18T17:06:18.211Z,"3km SE of Lake Henshaw, CA",earthquake,0.29,0.73,0.128,24,automatic,ci,ci
+2020-05-18T17:01:20.414Z,36.2496,137.6448,5.03,4.5,mb,,92,0.539,1.13,us,us70009jvq,2020-05-19T03:32:54.649Z,"23km WSW of Hotaka, Japan",earthquake,2.3,5.2,0.106,26,reviewed,us,us
+2020-05-18T17:01:18.653Z,58.9665,-135.3624,0,2.1,ml,,,,0.72,ak,ak0206e5tv30,2020-05-18T17:08:37.670Z,"29km S of Haines, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2020-05-18T17:01:02.217Z,38.1104,-118.0289,7,1.7,ml,9,228.56,0.062,0.1512,nn,nn00728098,2020-05-18T17:04:55.719Z,"69km SE of Hawthorne, Nevada",earthquake,,2.4,0.49,5,reviewed,nn,nn
+2020-05-18T16:56:26.337Z,60.1063,-141.3689,3.9,1.6,ml,,,,0.66,ak,ak0206e5k8hh,2020-05-18T17:01:04.662Z,"59km E of Cape Yakataga, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2020-05-18T16:55:23.420Z,38.8081665,-122.8131638,3.14,1.02,md,29,56,0.01253,0.02,nc,nc73390695,2020-05-18T17:08:01.817Z,"6km NW of The Geysers, CA",earthquake,0.2,0.41,0.09,6,automatic,nc,nc
+2020-05-18T16:52:53.780Z,38.2142,-117.7398,0.9,1.5,ml,10,161.55,0.18,0.15,nn,nn00728097,2020-05-18T17:03:17.116Z,"47km WNW of Tonopah, Nevada",earthquake,,10.5,,,automatic,nn,nn
+2020-05-18T16:50:18.182Z,1.5569,126.5865,48.21,4.8,mb,,94,1.103,0.53,us,us70009jv1,2020-05-18T18:22:41.040Z,"121km NW of Kota Ternate, Indonesia",earthquake,7.9,6.6,0.065,74,reviewed,us,us
+2020-05-18T16:49:12.960Z,38.1545,-117.976,8.8,2.1,ml,11,103.84,0.049,0.14,nn,nn00728096,2020-05-19T00:51:44.215Z,"66km W of Tonopah, Nevada",earthquake,,0.7,,,automatic,nn,nn
+2020-05-18T16:44:18.250Z,35.9558333,-117.6638333,3.07,1.45,ml,19,72,0.01348,0.17,ci,ci39206007,2020-05-18T16:48:14.085Z,"22km E of Little Lake, CA",earthquake,0.25,0.5,0.111,21,automatic,ci,ci
+2020-05-18T16:43:28.400Z,40.7383333,-112.074,9.39,1.54,ml,20,41,0.01548,0.12,uu,uu60387852,2020-05-18T21:20:34.900Z,"3km NE of Magna, Utah",earthquake,0.28,0.56,0.074,5,reviewed,uu,uu
+2020-05-18T16:33:55.543Z,60.0698,-141.4796,11.1,3.3,ml,,,,1.17,ak,ak0206e5fd8i,2020-05-18T18:17:20.040Z,"59km E of Cape Yakataga, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2020-05-18T16:33:52.450Z,36.1553333,-117.924,3.46,1.31,ml,16,151,0.06747,0.14,ci,ci39205999,2020-05-19T02:07:19.078Z,"12km N of Coso Junction, CA",earthquake,0.29,0.53,0.193,12,reviewed,ci,ci
+2020-05-18T16:23:04.993Z,61.4685,-140.4514,3.5,1.8,ml,,,,0.77,ak,ak0206e5d45m,2020-05-18T16:47:40.496Z,"177km WNW of Haines Junction, Canada",earthquake,,0.3,,,automatic,ak,ak
+2020-05-18T16:21:05.780Z,38.2187,-117.7833,0,1.9,ml,11,98.37,0.159,0.44,nn,nn00728094,2020-05-18T16:48:58.403Z,"51km WNW of Tonopah, Nevada",earthquake,,23.3,,,automatic,nn,nn
+2020-05-18T16:19:59.450Z,40.7213333,-112.0165,9.44,0.29,md,7,122,0.05684,0.05,uu,uu60387847,2020-05-18T22:11:57.780Z,"3km NNW of West Valley City, Utah",earthquake,0.37,0.8,0.219,4,reviewed,uu,uu
+2020-05-18T16:11:22.590Z,46.8585,-121.957666666667,8.38,-0.1,md,10,186,0.008917,0.09,uw,uw61616122,2020-05-18T17:43:22.160Z,"23km E of Eatonville, Washington",earthquake,0.68,0.39,0.184894624835915,9,reviewed,uw,uw
+2020-05-18T16:10:55.640Z,38.2172,-117.7533,1.6,1.8,ml,11,150.9,0.114,0.11,nn,nn00728093,2020-05-18T16:17:36.673Z,"48km WNW of Tonopah, Nevada",earthquake,,8.8,,,automatic,nn,nn
+2020-05-18T16:10:36.930Z,36.1296667,-117.8653333,3.53,0.93,ml,10,194,0.01474,0.08,ci,ci39205975,2020-05-18T16:14:24.275Z,"12km NE of Coso Junction, CA",earthquake,0.36,0.23,0.179,11,automatic,ci,ci
+2020-05-18T16:02:49.630Z,19.1646671,-155.4725037,31.87,1.95,md,41,163,0.08695,0.11,hv,hv71517847,2020-05-18T16:06:08.430Z,"4km S of Pahala, Hawaii",earthquake,0.59,1.16,0.1,9,automatic,hv,hv
+2020-05-18T16:02:48.090Z,40.7203333,-112.0181667,10.42,0.53,md,9,121,0.015,0.09,uu,uu60387832,2020-05-18T21:49:20.880Z,"3km NNW of West Valley City, Utah",earthquake,0.54,0.86,0.331,4,reviewed,uu,uu
+2020-05-18T15:59:31.539Z,36.24283333,-97.279,7.78,1.31,ml,63,69,0,0.25,ok,ok2020jtjb,2020-05-18T16:30:18.751Z,"5km S of Perry, Oklahoma",earthquake,,0.5,0.24,27,reviewed,ok,ok
+2020-05-18T15:53:39.310Z,38.1837,-117.867,6.4,1.6,ml,8,157.01,0.058,0.06,nn,nn00728092,2020-05-18T16:12:36.876Z,"57km WNW of Tonopah, Nevada",earthquake,,2.8,,,automatic,nn,nn
+2020-05-18T15:50:06.230Z,38.2072,-117.7315,12.3,1.8,ml,9,122.42,0.423,0.13,nn,nn00728090,2020-05-18T15:55:38.372Z,"46km WNW of Tonopah, Nevada",earthquake,,3.4,,,automatic,nn,nn
+2020-05-18T15:45:32.030Z,44.2845,-115.0538333,5.46,2.02,ml,10,77,0.857,0.1,mb,mb80423834,2020-05-18T23:02:16.470Z,"69km WSW of Challis, Idaho",earthquake,0.32,0.77,0.121,8,reviewed,mb,mb
+2020-05-18T15:44:44.770Z,19.8403339,-155.6996613,5.41,1.74,md,30,281,0.1777,0.29,hv,hv71517827,2020-05-18T15:47:56.960Z,"14km SE of Waikoloa, Hawaii",earthquake,0.89,0.7,0.32,3,automatic,hv,hv
+2020-05-18T15:44:27.570Z,38.1465,-117.8647,0.8,1.8,ml,13,111.02,0.349,0.15,nn,nn00728088,2020-05-18T15:51:18.286Z,"56km W of Tonopah, Nevada",earthquake,,10.9,,,automatic,nn,nn
+2020-05-18T15:41:03.540Z,40.721,-112.0183333,8.86,1.26,md,14,93,0.05589,0.11,uu,uu60387827,2020-05-18T16:13:06.990Z,"3km NNW of West Valley City, Utah",earthquake,0.4,0.83,0.283,7,reviewed,uu,uu
+2020-05-18T15:35:11.727Z,58.8031,-152.2096,39.6,2,ml,,,,0.72,ak,ak0206e4u9sf,2020-05-18T15:41:05.673Z,"100km SSW of Homer, Alaska",earthquake,,4.8,,,automatic,ak,ak
+2020-05-18T15:31:47.490Z,38.8390007,-122.8363342,1.81,0.34,md,17,83,0.000779,0.01,nc,nc73390665,2020-05-18T15:56:03.378Z,"10km NW of The Geysers, CA",earthquake,0.23,0.51,0.23,2,automatic,nc,nc
+2020-05-18T15:30:51.080Z,38.8371658,-122.8365021,1.79,1.48,md,28,80,0.001627,0.03,nc,nc73390660,2020-05-18T15:46:06.314Z,"10km NW of The Geysers, CA",earthquake,0.18,0.34,0.19,8,automatic,nc,nc
+2020-05-18T15:29:46.814Z,63.0294,-150.6409,117.8,2,ml,,,,0.29,ak,ak0206e4t12t,2020-05-18T15:36:13.562Z,"83km NNW of Talkeetna, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2020-05-18T15:29:36.369Z,60.4,-151.124,33.1,1.2,ml,,,,0.56,ak,ak0206e4t1ac,2020-05-18T15:32:52.098Z,"9km ESE of Kalifornsky, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2020-05-18T15:26:06.240Z,38.1438,-118.0842,0.6,1.7,ml,15,116.94,0.11,0.14,nn,nn00728084,2020-05-18T15:45:58.034Z,"63km SE of Hawthorne, Nevada",earthquake,,12.6,,,automatic,nn,nn
+2020-05-18T15:24:31.140Z,38.1623,-117.9618,9.4,2.4,ml,14,94.07,0.052,0.14,nn,nn00728082,2020-05-18T15:27:58.987Z,"65km W of Tonopah, Nevada",earthquake,,0.7,,,automatic,nn,nn
+2020-05-18T15:23:28.546Z,66.2145,-157.3306,0,1.5,ml,,,,1.39,ak,ak0206e4rqd0,2020-05-18T15:32:51.585Z,"79km SSW of Kobuk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2020-05-18T15:21:00.030Z,38.199,-117.772,5.8,2.4,ml,20,97.64,0.153,0.09,nn,nn00728079,2020-05-18T15:24:19.130Z,"49km WNW of Tonopah, Nevada",earthquake,,1.2,,,automatic,nn,nn
+2020-05-18T15:12:13.581Z,60.6311,-142.9119,8.1,1.4,ml,,,,0.7,ak,ak0206e4pccu,2020-05-18T15:16:57.443Z,"68km NNW of Cape Yakataga, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2020-05-18T15:03:54.130Z,38.1798,-117.8432,1.9,2.2,ml,18,111.66,0.098,0.13,nn,nn00728075,2020-05-18T15:07:18.086Z,"55km WNW of Tonopah, Nevada",earthquake,,4.5,,,automatic,nn,nn
+2020-05-18T14:59:32.740Z,19.1509991,-155.4811707,32.76,1.98,md,33,150,0.01854,0.15,hv,hv71517792,2020-05-18T15:02:45.420Z,"6km S of Pahala, Hawaii",earthquake,0.7,0.97,0.16,4,automatic,hv,hv
+2020-05-18T14:58:05.960Z,44.2791667,-115.064,7.21,2.17,ml,11,78,0.857,0.22,mb,mb80423804,2020-05-18T23:11:37.540Z,"70km WSW of Challis, Idaho",earthquake,0.52,1.35,0.157,8,reviewed,mb,mb
+2020-05-18T14:49:47.700Z,38.21,-117.7425,0.2,1.9,ml,12,118.65,0.169,0.08,nn,nn00728072,2020-05-18T14:54:18.800Z,"47km WNW of Tonopah, Nevada",earthquake,,8.1,,,automatic,nn,nn
+2020-05-18T14:48:20.720Z,38.8373337,-122.8363342,1.8,1.63,md,29,79,0.001417,0.03,nc,nc73390630,2020-05-18T15:12:03.111Z,"10km NW of The Geysers, CA",earthquake,0.18,0.32,0.1,8,automatic,nc,nc
+2020-05-18T14:47:03.299Z,38.173,-117.9563,0,2.7,ml,18,47.98,0.034,0.1469,nn,nn00728069,2020-05-19T02:10:42.877Z,"66km WNW of Tonopah, Nevada",earthquake,,0,0.37,3,reviewed,nn,nn
+2020-05-18T14:45:56.310Z,38.8129997,-122.7913361,0.38,0.55,md,8,77,0.005903,0.03,nc,nc73390620,2020-05-18T15:01:05.043Z,"5km NW of The Geysers, CA",earthquake,0.31,0.67,,1,automatic,nc,nc
+2020-05-18T14:45:23.090Z,38.17,-117.8498,4.5,2.6,ml,23,94.33,0.098,0.14,nn,nn00728068,2020-05-18T18:07:25.040Z,"56km WNW of Tonopah, Nevada",earthquake,,1.1,,,automatic,nn,nn
+2020-05-18T14:42:38.070Z,38.1693,-117.8362,3.7,2,ml,12,114.59,0.431,0.11,nn,nn00728066,2020-05-18T14:46:38.262Z,"54km WNW of Tonopah, Nevada",earthquake,,12.6,,,automatic,nn,nn
+2020-05-18T14:40:54.790Z,38.188,-117.7358,8.9,1.7,ml,14,119.86,0.419,0.21,nn,nn00728065,2020-05-18T14:44:59.001Z,"46km WNW of Tonopah, Nevada",earthquake,,4.1,,,automatic,nn,nn
+2020-05-18T14:40:20.200Z,33.228,-116.7331667,9.87,0.78,ml,27,62,0.02288,0.16,ci,ci39205911,2020-05-18T14:50:51.485Z,"3km ESE of Lake Henshaw, CA",earthquake,0.32,0.63,0.141,17,reviewed,ci,ci
+2020-05-18T14:31:49.040Z,35.9533333,-117.3371667,2.84,1.59,ml,14,72,0.07606,0.15,ci,ci39205895,2020-05-18T14:35:31.300Z,"21km N of Trona, CA",earthquake,0.34,1.21,0.131,20,automatic,ci,ci
+2020-05-18T14:31:20.194Z,60.9183,-149.0822,22.9,1.3,ml,,,,0.41,ak,ak0206e47zv7,2020-05-18T14:34:28.314Z,"27km NW of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2020-05-18T14:29:15.740Z,38.1892,-117.8805,9.7,1.8,ml,10,132.9,0.066,0.12,nn,nn00728059,2020-05-18T14:32:37.141Z,"58km WNW of Tonopah, Nevada",earthquake,,1.1,,,automatic,nn,nn
+2020-05-18T14:28:12.920Z,35.633,-117.431,5.49,2.35,ml,29,69,0.05291,0.17,ci,ci39205887,2020-05-18T14:39:25.770Z,"15km S of Searles Valley, CA",earthquake,0.31,0.78,0.127,26,automatic,ci,ci
+2020-05-18T14:24:56.830Z,37.8269997,-121.9871674,6.41,1.93,md,20,54,0.03208,0.06,nc,nc73390605,2020-05-18T14:43:04.629Z,"1km ENE of Danville, CA",earthquake,0.25,0.42,0.11,17,automatic,nc,nc
+2020-05-18T14:20:41.542Z,38.1811,-117.7818,0,1.2,ml,8,189.45,0.146,0.187,nn,nn00728055,2020-05-18T14:29:15.803Z,"50km WNW of Tonopah, Nevada",earthquake,,15.1,0.23,5,reviewed,nn,nn
+2020-05-18T14:19:44.440Z,38.1785,-117.9222,6.2,1.8,ml,14,136.85,0.052,0.11,nn,nn00728053,2020-05-18T14:22:58.459Z,"61km WNW of Tonopah, Nevada",earthquake,,1,,,automatic,nn,nn
+2020-05-18T14:17:18.690Z,38.2007,-117.7445,2.8,1.6,ml,13,102.62,0.395,0.08,nn,nn00728051,2020-05-18T14:21:18.346Z,"47km WNW of Tonopah, Nevada",earthquake,,1.6,,,automatic,nn,nn
+2020-05-18T14:15:11.590Z,38.205,-117.788,0,2,ml,14,116.76,0.133,0.77,nn,nn00728049,2020-05-18T14:18:36.972Z,"51km WNW of Tonopah, Nevada",earthquake,,35.3,,,automatic,nn,nn
+2020-05-18T14:14:51.364Z,69.49,-143.7378,0,1.6,ml,,,,0.6,ak,ak0206e44f1x,2020-05-18T14:18:14.449Z,"71km S of Kaktovik, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2020-05-18T14:11:09.130Z,34.1767,25.6178,10,4.4,mb,,151,1.26,0.56,us,us70009jrf,2020-05-18T18:05:46.040Z,"93km S of Ierapetra, Greece",earthquake,8.4,1.9,0.087,41,reviewed,us,us
+2020-05-18T14:09:48.614Z,60.0473,-141.4067,6.7,2.9,ml,,,,0.73,ak,ak0206e43cd2,2020-05-18T14:57:46.040Z,"58km E of Cape Yakataga, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2020-05-18T14:04:22.444Z,38.1474,-118.0036,4.5,1.2,ml,9,138.07,0.036,0.3121,nn,nn00728047,2020-05-18T14:11:55.784Z,"68km SE of Hawthorne, Nevada",earthquake,,0.6,0.03,2,reviewed,nn,nn
+2020-05-18T14:02:27.560Z,59.8471,-136.7491,0,1.9,ml,,,,0.79,ak,ak0206e41so4,2020-05-18T14:05:48.035Z,"91km WNW of Skagway, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2020-05-18T13:57:33.170Z,38.1252,-118.0102,2.1,1.6,ml,8,110.24,0.045,0.09,nn,nn00728046,2020-05-18T14:06:16.464Z,"68km W of Tonopah, Nevada",earthquake,,1.8,,,automatic,nn,nn
+2020-05-18T13:52:25.490Z,38.226,-117.8285,7.5,1.7,ml,16,134.9,0.111,0.05,nn,nn00728043,2020-05-18T13:56:18.188Z,"55km WNW of Tonopah, Nevada",earthquake,,8.8,,,automatic,nn,nn
+2020-05-18T13:48:45.600Z,44.2051667,-115.1138333,7.91,2.29,ml,9,80,0.818,0.34,mb,mb80423759,2020-05-18T23:17:23.580Z,"71km NE of Idaho City, Idaho",earthquake,0.9,3.06,0.182,6,reviewed,mb,mb
+2020-05-18T13:48:03.299Z,27.2955,103.2809,10,5.2,mww,,44,6.208,0.88,us,us70009jr6,2020-05-19T03:55:00.598Z,"26km WNW of Wenping, China",earthquake,7.5,1.8,0.098,10,reviewed,us,us
+2020-05-18T13:46:04.342Z,66.2804,-157.4381,5.2,1.4,ml,,,,0.9,ak,ak0206e3pqqk,2020-05-18T13:57:04.070Z,"74km SSW of Kobuk, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2020-05-18T13:46:03.300Z,44.3336667,-115.007,8.73,1.88,ml,7,113,0.882,0.17,mb,mb80423754,2020-05-18T23:22:05.890Z,"64km WSW of Challis, Idaho",earthquake,0.55,1.84,0.288,5,reviewed,mb,mb
+2020-05-18T13:40:56.870Z,38.1732,-118.005,6.8,2.1,ml,13,101.96,0.057,0.16,nn,nn00728039,2020-05-18T13:44:18.348Z,"66km SE of Hawthorne, Nevada",earthquake,,0.5,,,automatic,nn,nn
+2020-05-18T13:39:28.170Z,38.1152,-117.991,5.6,1.6,ml,11,110.65,0.039,0.07,nn,nn00728038,2020-05-18T13:42:37.805Z,"66km W of Tonopah, Nevada",earthquake,,0.9,,,automatic,nn,nn
+2020-05-18T13:36:12.194Z,38.2101,-117.7613,5.4,2.7,ml,20,49.96,0.14,0.1342,nn,nn00728036,2020-05-19T02:10:39.586Z,"49km WNW of Tonopah, Nevada",earthquake,,1.4,0.61,5,reviewed,nn,nn
+2020-05-18T13:26:19.200Z,38.1573,-118.046,6.3,2,ml,19,99.4,0.087,0.13,nn,nn00728033,2020-05-18T13:37:18.627Z,"64km SE of Hawthorne, Nevada",earthquake,,1,,,automatic,nn,nn
+2020-05-18T13:22:05.930Z,19.2070007,-155.415329,32.53,1.92,md,40,162,0.03471,0.11,hv,hv71517722,2020-05-18T13:25:10.090Z,"6km E of Pahala, Hawaii",earthquake,0.59,0.76,0.1,4,automatic,hv,hv
+2020-05-18T13:15:40.504Z,31.2516,-103.3367,4.83,2.5,ml,,38,0.331,0.43,us,us70009jpe,2020-05-18T18:01:09.040Z,"24km SE of Pecos, Texas",earthquake,1.2,6.2,0.048,58,reviewed,us,us
+2020-05-18T13:15:03.630Z,44.2871667,-115.1631667,5.09,1.75,ml,7,107,0.904,0.24,mb,mb80423734,2020-05-18T23:27:10.070Z,"74km ESE of Cascade, Idaho",earthquake,0.75,1.88,0.148,4,reviewed,mb,mb
+2020-05-18T13:10:12.000Z,38.162,-117.8622,0.6,2.4,ml,18,94.73,0.346,0.14,nn,nn00728030,2020-05-18T13:16:18.249Z,"56km W of Tonopah, Nevada",earthquake,,10,,,automatic,nn,nn
+2020-05-18T13:07:41.040Z,38.1908,-117.9868,26.4,2.1,ml,13,128.89,0.424,0.15,nn,nn00728029,2020-05-18T13:11:18.108Z,"66km ESE of Hawthorne, Nevada",earthquake,,0.7,,,automatic,nn,nn
+2020-05-18T13:03:02.246Z,38.1295,-118.0579,1.8,2.8,ml,15,56.24,0.313,0.1124,nn,nn00728023,2020-05-19T02:10:38.148Z,"64km SE of Hawthorne, Nevada",earthquake,,22.1,0.28,3,reviewed,nn,nn
+2020-05-18T13:02:44.080Z,38.1907,-117.7465,8.1,3,ml,12,160.94,0.4,0.08,nn,nn00728025,2020-05-18T13:30:37.040Z,"47km WNW of Tonopah, Nevada",earthquake,,10.5,,,automatic,nn,nn
+2020-05-18T12:58:21.707Z,38.1286,-117.998,3.2,2.6,ml,19,75.42,0.032,0.1566,nn,nn00728021,2020-05-19T02:10:36.620Z,"67km W of Tonopah, Nevada",earthquake,,1.6,0.49,6,reviewed,nn,nn
+2020-05-18T12:53:47.294Z,38.1208,-118.051,5.2,1.6,ml,10,114.98,0.074,0.1964,nn,nn00728020,2020-05-18T12:59:35.599Z,"67km SE of Hawthorne, Nevada",earthquake,,1.3,0.77,6,reviewed,nn,nn
+2020-05-18T12:52:58.900Z,47.5998333333333,-122.576666666667,28.51,1.73,ml,30,43,0.08352,0.29,uw,uw61616067,2020-05-18T14:09:00.590Z,"2km NE of Enetai, Washington",earthquake,0.46,0.87,0.191103436364937,18,reviewed,uw,uw
+2020-05-18T12:42:31.070Z,33.3583333,-116.4046667,7.84,0.5,ml,15,100,0.07966,0.12,ci,ci39205799,2020-05-18T13:12:43.832Z,"12km NNW of Borrego Springs, CA",earthquake,0.24,0.77,0.152,9,reviewed,ci,ci
+2020-05-18T12:40:26.810Z,58.9589,-154.2904,118.6,4,ml,,,,0.87,ak,ak0206e332ic,2020-05-18T14:09:59.558Z,"95km SSE of Old Iliamna, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2020-05-18T12:39:59.240Z,38.1055,-117.9777,0,1.5,ml,9,109.23,0.031,0.24,nn,nn00728017,2020-05-18T12:52:56.509Z,"65km W of Tonopah, Nevada",earthquake,,2.6,,,automatic,nn,nn
+2020-05-18T12:35:08.775Z,60.0466,-152.2616,69.5,1,ml,,,,0.35,ak,ak0206e31ypd,2020-05-18T12:45:24.630Z,"38km NW of Anchor Point, Alaska",earthquake,,1,,,automatic,ak,ak
+2020-05-18T12:28:11.310Z,44.5593333,-115.2535,13.64,1.83,ml,6,124,0.749,0.16,mb,mb80423724,2020-05-18T23:32:29.830Z,"62km E of Cascade, Idaho",earthquake,0.67,1.48,0.154,5,reviewed,mb,mb
+2020-05-18T12:28:08.682Z,38.2049,-117.7952,7.1,2.6,ml,18,49.94,0.145,0.1029,nn,nn00728010,2020-05-19T02:10:35.095Z,"51km WNW of Tonopah, Nevada",earthquake,,2,0.62,4,reviewed,nn,nn
+2020-05-18T12:24:57.800Z,38.1678,-117.8048,0.7,1.6,ml,13,134.46,0.355,0.08,nn,nn00728008,2020-05-18T12:28:57.107Z,"51km WNW of Tonopah, Nevada",earthquake,,7.8,,,automatic,nn,nn
