@@ -10,6 +10,11 @@ class MainWindow(QtWidgets.QMainWindow):
         self.ui = Ui_MainWindow()
         self.ui.setupUi(self)
 
+        self.statusBarSetup()
+
+    def statusBarSetup(self):
+        self.ui.actionQuit.triggered.connect.(QtWidgets.qApp.quit)
+
 if __name__ == "__main__":
     app = QtWidgets.QApplication(sys.argv)
 
